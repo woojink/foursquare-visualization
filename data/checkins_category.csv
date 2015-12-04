@@ -1,0 +1,6025 @@
+Category,Hour,Count
+Music School,0,0
+Music School,1,0
+Music School,2,0
+Music School,3,0
+Music School,4,0
+Music School,5,0
+Music School,6,0
+Music School,7,0
+Music School,8,0
+Music School,9,0
+Music School,10,0
+Music School,11,0
+Music School,12,0
+Music School,13,0
+Music School,14,0
+Music School,15,0
+Music School,16,0
+Music School,17,0
+Music School,18,0
+Music School,19,0
+Music School,20,1
+Music School,21,0
+Music School,22,0
+Music School,23,0
+Trade School,0,0
+Trade School,1,0
+Trade School,2,0
+Trade School,3,0
+Trade School,4,0
+Trade School,5,0
+Trade School,6,1
+Trade School,7,2
+Trade School,8,20
+Trade School,9,2
+Trade School,10,4
+Trade School,11,2
+Trade School,12,14
+Trade School,13,11
+Trade School,14,2
+Trade School,15,0
+Trade School,16,0
+Trade School,17,5
+Trade School,18,5
+Trade School,19,3
+Trade School,20,0
+Trade School,21,0
+Trade School,22,0
+Trade School,23,0
+Argentinian Restaurant,0,0
+Argentinian Restaurant,1,0
+Argentinian Restaurant,2,0
+Argentinian Restaurant,3,0
+Argentinian Restaurant,4,0
+Argentinian Restaurant,5,0
+Argentinian Restaurant,6,0
+Argentinian Restaurant,7,0
+Argentinian Restaurant,8,0
+Argentinian Restaurant,9,0
+Argentinian Restaurant,10,0
+Argentinian Restaurant,11,0
+Argentinian Restaurant,12,0
+Argentinian Restaurant,13,1
+Argentinian Restaurant,14,1
+Argentinian Restaurant,15,2
+Argentinian Restaurant,16,1
+Argentinian Restaurant,17,2
+Argentinian Restaurant,18,2
+Argentinian Restaurant,19,4
+Argentinian Restaurant,20,3
+Argentinian Restaurant,21,2
+Argentinian Restaurant,22,4
+Argentinian Restaurant,23,0
+Smoke Shop,0,6
+Smoke Shop,1,5
+Smoke Shop,2,1
+Smoke Shop,3,2
+Smoke Shop,4,2
+Smoke Shop,5,1
+Smoke Shop,6,0
+Smoke Shop,7,2
+Smoke Shop,8,3
+Smoke Shop,9,3
+Smoke Shop,10,1
+Smoke Shop,11,7
+Smoke Shop,12,8
+Smoke Shop,13,10
+Smoke Shop,14,7
+Smoke Shop,15,10
+Smoke Shop,16,18
+Smoke Shop,17,11
+Smoke Shop,18,13
+Smoke Shop,19,10
+Smoke Shop,20,51
+Smoke Shop,21,24
+Smoke Shop,22,5
+Smoke Shop,23,11
+Middle Eastern Restaurant,0,7
+Middle Eastern Restaurant,1,2
+Middle Eastern Restaurant,2,2
+Middle Eastern Restaurant,3,0
+Middle Eastern Restaurant,4,3
+Middle Eastern Restaurant,5,1
+Middle Eastern Restaurant,6,1
+Middle Eastern Restaurant,7,0
+Middle Eastern Restaurant,8,0
+Middle Eastern Restaurant,9,0
+Middle Eastern Restaurant,10,2
+Middle Eastern Restaurant,11,6
+Middle Eastern Restaurant,12,30
+Middle Eastern Restaurant,13,17
+Middle Eastern Restaurant,14,10
+Middle Eastern Restaurant,15,7
+Middle Eastern Restaurant,16,10
+Middle Eastern Restaurant,17,10
+Middle Eastern Restaurant,18,14
+Middle Eastern Restaurant,19,22
+Middle Eastern Restaurant,20,17
+Middle Eastern Restaurant,21,14
+Middle Eastern Restaurant,22,10
+Middle Eastern Restaurant,23,4
+Arts & Entertainment,0,1
+Arts & Entertainment,1,3
+Arts & Entertainment,2,1
+Arts & Entertainment,3,1
+Arts & Entertainment,4,0
+Arts & Entertainment,5,0
+Arts & Entertainment,6,0
+Arts & Entertainment,7,2
+Arts & Entertainment,8,35
+Arts & Entertainment,9,14
+Arts & Entertainment,10,0
+Arts & Entertainment,11,1
+Arts & Entertainment,12,2
+Arts & Entertainment,13,1
+Arts & Entertainment,14,3
+Arts & Entertainment,15,1
+Arts & Entertainment,16,3
+Arts & Entertainment,17,1
+Arts & Entertainment,18,1
+Arts & Entertainment,19,2
+Arts & Entertainment,20,2
+Arts & Entertainment,21,2
+Arts & Entertainment,22,3
+Arts & Entertainment,23,1
+Shrine,0,1
+Shrine,1,2
+Shrine,2,2
+Shrine,3,3
+Shrine,4,1
+Shrine,5,0
+Shrine,6,1
+Shrine,7,1
+Shrine,8,8
+Shrine,9,9
+Shrine,10,0
+Shrine,11,0
+Shrine,12,2
+Shrine,13,0
+Shrine,14,0
+Shrine,15,4
+Shrine,16,3
+Shrine,17,0
+Shrine,18,1
+Shrine,19,3
+Shrine,20,1
+Shrine,21,1
+Shrine,22,3
+Shrine,23,2
+Playground,0,12
+Playground,1,10
+Playground,2,15
+Playground,3,3
+Playground,4,2
+Playground,5,3
+Playground,6,0
+Playground,7,15
+Playground,8,4
+Playground,9,38
+Playground,10,49
+Playground,11,31
+Playground,12,26
+Playground,13,20
+Playground,14,18
+Playground,15,26
+Playground,16,29
+Playground,17,32
+Playground,18,36
+Playground,19,30
+Playground,20,31
+Playground,21,19
+Playground,22,25
+Playground,23,23
+Student Center,0,2
+Student Center,1,1
+Student Center,2,2
+Student Center,3,1
+Student Center,4,0
+Student Center,5,0
+Student Center,6,1
+Student Center,7,31
+Student Center,8,35
+Student Center,9,19
+Student Center,10,9
+Student Center,11,13
+Student Center,12,17
+Student Center,13,15
+Student Center,14,24
+Student Center,15,21
+Student Center,16,7
+Student Center,17,14
+Student Center,18,16
+Student Center,19,13
+Student Center,20,5
+Student Center,21,3
+Student Center,22,2
+Student Center,23,6
+Italian Restaurant,0,21
+Italian Restaurant,1,18
+Italian Restaurant,2,5
+Italian Restaurant,3,1
+Italian Restaurant,4,4
+Italian Restaurant,5,5
+Italian Restaurant,6,3
+Italian Restaurant,7,6
+Italian Restaurant,8,9
+Italian Restaurant,9,41
+Italian Restaurant,10,44
+Italian Restaurant,11,49
+Italian Restaurant,12,123
+Italian Restaurant,13,125
+Italian Restaurant,14,121
+Italian Restaurant,15,86
+Italian Restaurant,16,61
+Italian Restaurant,17,107
+Italian Restaurant,18,200
+Italian Restaurant,19,265
+Italian Restaurant,20,231
+Italian Restaurant,21,146
+Italian Restaurant,22,96
+Italian Restaurant,23,49
+Bridal Shop,0,0
+Bridal Shop,1,0
+Bridal Shop,2,0
+Bridal Shop,3,0
+Bridal Shop,4,0
+Bridal Shop,5,0
+Bridal Shop,6,0
+Bridal Shop,7,0
+Bridal Shop,8,0
+Bridal Shop,9,1
+Bridal Shop,10,23
+Bridal Shop,11,2
+Bridal Shop,12,7
+Bridal Shop,13,1
+Bridal Shop,14,4
+Bridal Shop,15,1
+Bridal Shop,16,2
+Bridal Shop,17,2
+Bridal Shop,18,4
+Bridal Shop,19,1
+Bridal Shop,20,2
+Bridal Shop,21,0
+Bridal Shop,22,1
+Bridal Shop,23,0
+Castle,0,0
+Castle,1,0
+Castle,2,0
+Castle,3,0
+Castle,4,0
+Castle,5,0
+Castle,6,0
+Castle,7,0
+Castle,8,0
+Castle,9,0
+Castle,10,0
+Castle,11,0
+Castle,12,0
+Castle,13,0
+Castle,14,1
+Castle,15,1
+Castle,16,0
+Castle,17,0
+Castle,18,0
+Castle,19,0
+Castle,20,0
+Castle,21,0
+Castle,22,0
+Castle,23,0
+French Restaurant,0,15
+French Restaurant,1,12
+French Restaurant,2,5
+French Restaurant,3,4
+French Restaurant,4,5
+French Restaurant,5,8
+French Restaurant,6,18
+French Restaurant,7,16
+French Restaurant,8,18
+French Restaurant,9,12
+French Restaurant,10,22
+French Restaurant,11,31
+French Restaurant,12,63
+French Restaurant,13,60
+French Restaurant,14,54
+French Restaurant,15,27
+French Restaurant,16,26
+French Restaurant,17,43
+French Restaurant,18,45
+French Restaurant,19,51
+French Restaurant,20,70
+French Restaurant,21,53
+French Restaurant,22,39
+French Restaurant,23,28
+Home (private),0,921
+Home (private),1,601
+Home (private),2,473
+Home (private),3,379
+Home (private),4,269
+Home (private),5,311
+Home (private),6,434
+Home (private),7,604
+Home (private),8,599
+Home (private),9,464
+Home (private),10,508
+Home (private),11,481
+Home (private),12,602
+Home (private),13,551
+Home (private),14,535
+Home (private),15,574
+Home (private),16,618
+Home (private),17,772
+Home (private),18,966
+Home (private),19,986
+Home (private),20,954
+Home (private),21,867
+Home (private),22,937
+Home (private),23,976
+Korean Restaurant,0,14
+Korean Restaurant,1,5
+Korean Restaurant,2,9
+Korean Restaurant,3,10
+Korean Restaurant,4,5
+Korean Restaurant,5,4
+Korean Restaurant,6,2
+Korean Restaurant,7,2
+Korean Restaurant,8,2
+Korean Restaurant,9,3
+Korean Restaurant,10,4
+Korean Restaurant,11,6
+Korean Restaurant,12,40
+Korean Restaurant,13,24
+Korean Restaurant,14,17
+Korean Restaurant,15,13
+Korean Restaurant,16,12
+Korean Restaurant,17,13
+Korean Restaurant,18,35
+Korean Restaurant,19,46
+Korean Restaurant,20,62
+Korean Restaurant,21,38
+Korean Restaurant,22,20
+Korean Restaurant,23,16
+Financial or Legal Service,0,1
+Financial or Legal Service,1,1
+Financial or Legal Service,2,1
+Financial or Legal Service,3,1
+Financial or Legal Service,4,0
+Financial or Legal Service,5,0
+Financial or Legal Service,6,0
+Financial or Legal Service,7,3
+Financial or Legal Service,8,1
+Financial or Legal Service,9,5
+Financial or Legal Service,10,0
+Financial or Legal Service,11,6
+Financial or Legal Service,12,1
+Financial or Legal Service,13,5
+Financial or Legal Service,14,6
+Financial or Legal Service,15,6
+Financial or Legal Service,16,2
+Financial or Legal Service,17,3
+Financial or Legal Service,18,4
+Financial or Legal Service,19,2
+Financial or Legal Service,20,0
+Financial or Legal Service,21,2
+Financial or Legal Service,22,0
+Financial or Legal Service,23,0
+Indian Restaurant,0,9
+Indian Restaurant,1,16
+Indian Restaurant,2,8
+Indian Restaurant,3,16
+Indian Restaurant,4,7
+Indian Restaurant,5,8
+Indian Restaurant,6,3
+Indian Restaurant,7,0
+Indian Restaurant,8,2
+Indian Restaurant,9,2
+Indian Restaurant,10,9
+Indian Restaurant,11,1
+Indian Restaurant,12,33
+Indian Restaurant,13,27
+Indian Restaurant,14,26
+Indian Restaurant,15,15
+Indian Restaurant,16,9
+Indian Restaurant,17,13
+Indian Restaurant,18,28
+Indian Restaurant,19,35
+Indian Restaurant,20,46
+Indian Restaurant,21,37
+Indian Restaurant,22,12
+Indian Restaurant,23,10
+Light Rail,0,27
+Light Rail,1,4
+Light Rail,2,4
+Light Rail,3,2
+Light Rail,4,0
+Light Rail,5,6
+Light Rail,6,24
+Light Rail,7,121
+Light Rail,8,87
+Light Rail,9,21
+Light Rail,10,19
+Light Rail,11,15
+Light Rail,12,37
+Light Rail,13,80
+Light Rail,14,34
+Light Rail,15,26
+Light Rail,16,36
+Light Rail,17,24
+Light Rail,18,45
+Light Rail,19,26
+Light Rail,20,14
+Light Rail,21,47
+Light Rail,22,19
+Light Rail,23,15
+Fraternity House,0,2
+Fraternity House,1,1
+Fraternity House,2,0
+Fraternity House,3,2
+Fraternity House,4,2
+Fraternity House,5,1
+Fraternity House,6,2
+Fraternity House,7,2
+Fraternity House,8,1
+Fraternity House,9,3
+Fraternity House,10,4
+Fraternity House,11,2
+Fraternity House,12,2
+Fraternity House,13,3
+Fraternity House,14,0
+Fraternity House,15,0
+Fraternity House,16,0
+Fraternity House,17,3
+Fraternity House,18,2
+Fraternity House,19,0
+Fraternity House,20,2
+Fraternity House,21,5
+Fraternity House,22,2
+Fraternity House,23,0
+Parking,0,5
+Parking,1,2
+Parking,2,4
+Parking,3,1
+Parking,4,42
+Parking,5,8
+Parking,6,9
+Parking,7,46
+Parking,8,58
+Parking,9,56
+Parking,10,25
+Parking,11,17
+Parking,12,18
+Parking,13,18
+Parking,14,20
+Parking,15,22
+Parking,16,22
+Parking,17,36
+Parking,18,29
+Parking,19,18
+Parking,20,17
+Parking,21,10
+Parking,22,22
+Parking,23,36
+Bookstore,0,0
+Bookstore,1,3
+Bookstore,2,1
+Bookstore,3,1
+Bookstore,4,3
+Bookstore,5,1
+Bookstore,6,7
+Bookstore,7,9
+Bookstore,8,12
+Bookstore,9,37
+Bookstore,10,20
+Bookstore,11,53
+Bookstore,12,27
+Bookstore,13,63
+Bookstore,14,67
+Bookstore,15,67
+Bookstore,16,63
+Bookstore,17,69
+Bookstore,18,65
+Bookstore,19,52
+Bookstore,20,27
+Bookstore,21,5
+Bookstore,22,10
+Bookstore,23,3
+Road,0,94
+Road,1,56
+Road,2,48
+Road,3,69
+Road,4,75
+Road,5,85
+Road,6,98
+Road,7,117
+Road,8,235
+Road,9,214
+Road,10,153
+Road,11,133
+Road,12,122
+Road,13,169
+Road,14,125
+Road,15,129
+Road,16,168
+Road,17,210
+Road,18,252
+Road,19,219
+Road,20,155
+Road,21,115
+Road,22,91
+Road,23,75
+Video Game Store,0,0
+Video Game Store,1,0
+Video Game Store,2,0
+Video Game Store,3,0
+Video Game Store,4,0
+Video Game Store,5,1
+Video Game Store,6,1
+Video Game Store,7,0
+Video Game Store,8,6
+Video Game Store,9,3
+Video Game Store,10,3
+Video Game Store,11,7
+Video Game Store,12,12
+Video Game Store,13,9
+Video Game Store,14,11
+Video Game Store,15,12
+Video Game Store,16,12
+Video Game Store,17,17
+Video Game Store,18,8
+Video Game Store,19,11
+Video Game Store,20,6
+Video Game Store,21,0
+Video Game Store,22,1
+Video Game Store,23,3
+Japanese Restaurant,0,4
+Japanese Restaurant,1,3
+Japanese Restaurant,2,2
+Japanese Restaurant,3,2
+Japanese Restaurant,4,1
+Japanese Restaurant,5,1
+Japanese Restaurant,6,5
+Japanese Restaurant,7,2
+Japanese Restaurant,8,3
+Japanese Restaurant,9,1
+Japanese Restaurant,10,2
+Japanese Restaurant,11,7
+Japanese Restaurant,12,30
+Japanese Restaurant,13,43
+Japanese Restaurant,14,23
+Japanese Restaurant,15,22
+Japanese Restaurant,16,13
+Japanese Restaurant,17,15
+Japanese Restaurant,18,49
+Japanese Restaurant,19,86
+Japanese Restaurant,20,70
+Japanese Restaurant,21,53
+Japanese Restaurant,22,25
+Japanese Restaurant,23,7
+Pool,0,0
+Pool,1,1
+Pool,2,0
+Pool,3,1
+Pool,4,0
+Pool,5,0
+Pool,6,2
+Pool,7,16
+Pool,8,21
+Pool,9,15
+Pool,10,17
+Pool,11,6
+Pool,12,7
+Pool,13,10
+Pool,14,15
+Pool,15,13
+Pool,16,9
+Pool,17,14
+Pool,18,13
+Pool,19,13
+Pool,20,4
+Pool,21,2
+Pool,22,4
+Pool,23,1
+Sushi Restaurant,0,6
+Sushi Restaurant,1,6
+Sushi Restaurant,2,4
+Sushi Restaurant,3,1
+Sushi Restaurant,4,4
+Sushi Restaurant,5,0
+Sushi Restaurant,6,1
+Sushi Restaurant,7,2
+Sushi Restaurant,8,0
+Sushi Restaurant,9,2
+Sushi Restaurant,10,9
+Sushi Restaurant,11,23
+Sushi Restaurant,12,84
+Sushi Restaurant,13,71
+Sushi Restaurant,14,41
+Sushi Restaurant,15,24
+Sushi Restaurant,16,42
+Sushi Restaurant,17,49
+Sushi Restaurant,18,99
+Sushi Restaurant,19,131
+Sushi Restaurant,20,141
+Sushi Restaurant,21,85
+Sushi Restaurant,22,43
+Sushi Restaurant,23,13
+Building,0,38
+Building,1,34
+Building,2,26
+Building,3,30
+Building,4,29
+Building,5,22
+Building,6,82
+Building,7,145
+Building,8,453
+Building,9,388
+Building,10,271
+Building,11,161
+Building,12,200
+Building,13,217
+Building,14,227
+Building,15,178
+Building,16,140
+Building,17,163
+Building,18,164
+Building,19,154
+Building,20,131
+Building,21,106
+Building,22,69
+Building,23,46
+Bagel Shop,0,18
+Bagel Shop,1,16
+Bagel Shop,2,14
+Bagel Shop,3,16
+Bagel Shop,4,12
+Bagel Shop,5,12
+Bagel Shop,6,32
+Bagel Shop,7,48
+Bagel Shop,8,75
+Bagel Shop,9,126
+Bagel Shop,10,115
+Bagel Shop,11,97
+Bagel Shop,12,62
+Bagel Shop,13,47
+Bagel Shop,14,27
+Bagel Shop,15,30
+Bagel Shop,16,17
+Bagel Shop,17,11
+Bagel Shop,18,27
+Bagel Shop,19,17
+Bagel Shop,20,16
+Bagel Shop,21,14
+Bagel Shop,22,8
+Bagel Shop,23,12
+Bar,0,1436
+Bar,1,1116
+Bar,2,707
+Bar,3,335
+Bar,4,102
+Bar,5,89
+Bar,6,102
+Bar,7,103
+Bar,8,172
+Bar,9,144
+Bar,10,172
+Bar,11,174
+Bar,12,306
+Bar,13,444
+Bar,14,373
+Bar,15,386
+Bar,16,435
+Bar,17,672
+Bar,18,1199
+Bar,19,1467
+Bar,20,1453
+Bar,21,1486
+Bar,22,1598
+Bar,23,1507
+Motorcycle Shop,0,1
+Motorcycle Shop,1,0
+Motorcycle Shop,2,0
+Motorcycle Shop,3,0
+Motorcycle Shop,4,0
+Motorcycle Shop,5,0
+Motorcycle Shop,6,0
+Motorcycle Shop,7,0
+Motorcycle Shop,8,0
+Motorcycle Shop,9,0
+Motorcycle Shop,10,0
+Motorcycle Shop,11,0
+Motorcycle Shop,12,0
+Motorcycle Shop,13,0
+Motorcycle Shop,14,0
+Motorcycle Shop,15,0
+Motorcycle Shop,16,0
+Motorcycle Shop,17,0
+Motorcycle Shop,18,0
+Motorcycle Shop,19,0
+Motorcycle Shop,20,0
+Motorcycle Shop,21,0
+Motorcycle Shop,22,0
+Motorcycle Shop,23,1
+Restaurant,0,19
+Restaurant,1,16
+Restaurant,2,9
+Restaurant,3,4
+Restaurant,4,2
+Restaurant,5,4
+Restaurant,6,3
+Restaurant,7,14
+Restaurant,8,13
+Restaurant,9,12
+Restaurant,10,16
+Restaurant,11,43
+Restaurant,12,49
+Restaurant,13,65
+Restaurant,14,44
+Restaurant,15,20
+Restaurant,16,18
+Restaurant,17,28
+Restaurant,18,29
+Restaurant,19,74
+Restaurant,20,50
+Restaurant,21,33
+Restaurant,22,31
+Restaurant,23,29
+Southern / Soul Food Restaurant,0,2
+Southern / Soul Food Restaurant,1,5
+Southern / Soul Food Restaurant,2,1
+Southern / Soul Food Restaurant,3,0
+Southern / Soul Food Restaurant,4,1
+Southern / Soul Food Restaurant,5,0
+Southern / Soul Food Restaurant,6,1
+Southern / Soul Food Restaurant,7,0
+Southern / Soul Food Restaurant,8,0
+Southern / Soul Food Restaurant,9,2
+Southern / Soul Food Restaurant,10,4
+Southern / Soul Food Restaurant,11,5
+Southern / Soul Food Restaurant,12,18
+Southern / Soul Food Restaurant,13,13
+Southern / Soul Food Restaurant,14,13
+Southern / Soul Food Restaurant,15,3
+Southern / Soul Food Restaurant,16,9
+Southern / Soul Food Restaurant,17,9
+Southern / Soul Food Restaurant,18,8
+Southern / Soul Food Restaurant,19,17
+Southern / Soul Food Restaurant,20,14
+Southern / Soul Food Restaurant,21,14
+Southern / Soul Food Restaurant,22,6
+Southern / Soul Food Restaurant,23,9
+Pizza Place,0,53
+Pizza Place,1,53
+Pizza Place,2,38
+Pizza Place,3,40
+Pizza Place,4,20
+Pizza Place,5,15
+Pizza Place,6,17
+Pizza Place,7,19
+Pizza Place,8,39
+Pizza Place,9,27
+Pizza Place,10,34
+Pizza Place,11,75
+Pizza Place,12,172
+Pizza Place,13,224
+Pizza Place,14,178
+Pizza Place,15,153
+Pizza Place,16,129
+Pizza Place,17,167
+Pizza Place,18,198
+Pizza Place,19,217
+Pizza Place,20,250
+Pizza Place,21,164
+Pizza Place,22,115
+Pizza Place,23,72
+Music Store,0,0
+Music Store,1,0
+Music Store,2,0
+Music Store,3,0
+Music Store,4,1
+Music Store,5,0
+Music Store,6,0
+Music Store,7,0
+Music Store,8,1
+Music Store,9,1
+Music Store,10,0
+Music Store,11,3
+Music Store,12,4
+Music Store,13,10
+Music Store,14,4
+Music Store,15,4
+Music Store,16,7
+Music Store,17,3
+Music Store,18,8
+Music Store,19,2
+Music Store,20,4
+Music Store,21,0
+Music Store,22,1
+Music Store,23,1
+Hot Dog Joint,0,17
+Hot Dog Joint,1,12
+Hot Dog Joint,2,12
+Hot Dog Joint,3,9
+Hot Dog Joint,4,0
+Hot Dog Joint,5,4
+Hot Dog Joint,6,1
+Hot Dog Joint,7,3
+Hot Dog Joint,8,4
+Hot Dog Joint,9,3
+Hot Dog Joint,10,1
+Hot Dog Joint,11,8
+Hot Dog Joint,12,13
+Hot Dog Joint,13,23
+Hot Dog Joint,14,10
+Hot Dog Joint,15,9
+Hot Dog Joint,16,21
+Hot Dog Joint,17,18
+Hot Dog Joint,18,20
+Hot Dog Joint,19,26
+Hot Dog Joint,20,28
+Hot Dog Joint,21,16
+Hot Dog Joint,22,7
+Hot Dog Joint,23,16
+Ice Cream Shop,0,5
+Ice Cream Shop,1,4
+Ice Cream Shop,2,1
+Ice Cream Shop,3,3
+Ice Cream Shop,4,3
+Ice Cream Shop,5,0
+Ice Cream Shop,6,2
+Ice Cream Shop,7,1
+Ice Cream Shop,8,6
+Ice Cream Shop,9,15
+Ice Cream Shop,10,12
+Ice Cream Shop,11,13
+Ice Cream Shop,12,23
+Ice Cream Shop,13,41
+Ice Cream Shop,14,65
+Ice Cream Shop,15,63
+Ice Cream Shop,16,62
+Ice Cream Shop,17,60
+Ice Cream Shop,18,71
+Ice Cream Shop,19,94
+Ice Cream Shop,20,111
+Ice Cream Shop,21,93
+Ice Cream Shop,22,55
+Ice Cream Shop,23,28
+Cuban Restaurant,0,11
+Cuban Restaurant,1,9
+Cuban Restaurant,2,1
+Cuban Restaurant,3,5
+Cuban Restaurant,4,6
+Cuban Restaurant,5,3
+Cuban Restaurant,6,2
+Cuban Restaurant,7,1
+Cuban Restaurant,8,2
+Cuban Restaurant,9,4
+Cuban Restaurant,10,6
+Cuban Restaurant,11,15
+Cuban Restaurant,12,31
+Cuban Restaurant,13,39
+Cuban Restaurant,14,23
+Cuban Restaurant,15,22
+Cuban Restaurant,16,11
+Cuban Restaurant,17,20
+Cuban Restaurant,18,30
+Cuban Restaurant,19,32
+Cuban Restaurant,20,31
+Cuban Restaurant,21,28
+Cuban Restaurant,22,16
+Cuban Restaurant,23,17
+Bakery,0,15
+Bakery,1,6
+Bakery,2,4
+Bakery,3,4
+Bakery,4,3
+Bakery,5,15
+Bakery,6,18
+Bakery,7,76
+Bakery,8,110
+Bakery,9,95
+Bakery,10,79
+Bakery,11,98
+Bakery,12,135
+Bakery,13,152
+Bakery,14,110
+Bakery,15,105
+Bakery,16,90
+Bakery,17,82
+Bakery,18,96
+Bakery,19,77
+Bakery,20,114
+Bakery,21,44
+Bakery,22,36
+Bakery,23,22
+Gift Shop,0,1
+Gift Shop,1,2
+Gift Shop,2,1
+Gift Shop,3,0
+Gift Shop,4,0
+Gift Shop,5,0
+Gift Shop,6,0
+Gift Shop,7,1
+Gift Shop,8,6
+Gift Shop,9,2
+Gift Shop,10,7
+Gift Shop,11,9
+Gift Shop,12,11
+Gift Shop,13,16
+Gift Shop,14,13
+Gift Shop,15,18
+Gift Shop,16,7
+Gift Shop,17,17
+Gift Shop,18,16
+Gift Shop,19,10
+Gift Shop,20,10
+Gift Shop,21,3
+Gift Shop,22,0
+Gift Shop,23,1
+Government Building,0,25
+Government Building,1,20
+Government Building,2,9
+Government Building,3,11
+Government Building,4,12
+Government Building,5,40
+Government Building,6,43
+Government Building,7,70
+Government Building,8,157
+Government Building,9,172
+Government Building,10,117
+Government Building,11,103
+Government Building,12,90
+Government Building,13,103
+Government Building,14,119
+Government Building,15,82
+Government Building,16,60
+Government Building,17,64
+Government Building,18,52
+Government Building,19,52
+Government Building,20,59
+Government Building,21,55
+Government Building,22,35
+Government Building,23,39
+College Stadium,0,2
+College Stadium,1,0
+College Stadium,2,0
+College Stadium,3,0
+College Stadium,4,0
+College Stadium,5,6
+College Stadium,6,2
+College Stadium,7,4
+College Stadium,8,28
+College Stadium,9,3
+College Stadium,10,1
+College Stadium,11,0
+College Stadium,12,3
+College Stadium,13,4
+College Stadium,14,1
+College Stadium,15,2
+College Stadium,16,4
+College Stadium,17,9
+College Stadium,18,1
+College Stadium,19,1
+College Stadium,20,0
+College Stadium,21,1
+College Stadium,22,0
+College Stadium,23,3
+Ferry,0,11
+Ferry,1,1
+Ferry,2,3
+Ferry,3,5
+Ferry,4,3
+Ferry,5,9
+Ferry,6,100
+Ferry,7,52
+Ferry,8,42
+Ferry,9,67
+Ferry,10,33
+Ferry,11,32
+Ferry,12,40
+Ferry,13,48
+Ferry,14,52
+Ferry,15,47
+Ferry,16,44
+Ferry,17,79
+Ferry,18,113
+Ferry,19,36
+Ferry,20,26
+Ferry,21,28
+Ferry,22,13
+Ferry,23,8
+River,0,2
+River,1,1
+River,2,1
+River,3,1
+River,4,2
+River,5,0
+River,6,7
+River,7,11
+River,8,72
+River,9,2
+River,10,4
+River,11,6
+River,12,7
+River,13,1
+River,14,2
+River,15,3
+River,16,3
+River,17,4
+River,18,3
+River,19,4
+River,20,3
+River,21,0
+River,22,4
+River,23,2
+Professional & Other Places,0,7
+Professional & Other Places,1,1
+Professional & Other Places,2,1
+Professional & Other Places,3,1
+Professional & Other Places,4,2
+Professional & Other Places,5,4
+Professional & Other Places,6,4
+Professional & Other Places,7,4
+Professional & Other Places,8,18
+Professional & Other Places,9,17
+Professional & Other Places,10,7
+Professional & Other Places,11,16
+Professional & Other Places,12,7
+Professional & Other Places,13,16
+Professional & Other Places,14,12
+Professional & Other Places,15,6
+Professional & Other Places,16,10
+Professional & Other Places,17,7
+Professional & Other Places,18,3
+Professional & Other Places,19,4
+Professional & Other Places,20,1
+Professional & Other Places,21,4
+Professional & Other Places,22,4
+Professional & Other Places,23,3
+Salad Place,0,1
+Salad Place,1,0
+Salad Place,2,0
+Salad Place,3,0
+Salad Place,4,0
+Salad Place,5,0
+Salad Place,6,0
+Salad Place,7,2
+Salad Place,8,3
+Salad Place,9,6
+Salad Place,10,3
+Salad Place,11,5
+Salad Place,12,64
+Salad Place,13,53
+Salad Place,14,23
+Salad Place,15,3
+Salad Place,16,3
+Salad Place,17,11
+Salad Place,18,4
+Salad Place,19,7
+Salad Place,20,6
+Salad Place,21,3
+Salad Place,22,0
+Salad Place,23,2
+Hobby Shop,0,0
+Hobby Shop,1,1
+Hobby Shop,2,0
+Hobby Shop,3,0
+Hobby Shop,4,0
+Hobby Shop,5,0
+Hobby Shop,6,0
+Hobby Shop,7,0
+Hobby Shop,8,0
+Hobby Shop,9,1
+Hobby Shop,10,2
+Hobby Shop,11,1
+Hobby Shop,12,3
+Hobby Shop,13,4
+Hobby Shop,14,6
+Hobby Shop,15,6
+Hobby Shop,16,2
+Hobby Shop,17,7
+Hobby Shop,18,6
+Hobby Shop,19,5
+Hobby Shop,20,1
+Hobby Shop,21,2
+Hobby Shop,22,2
+Hobby Shop,23,0
+Brazilian Restaurant,0,1
+Brazilian Restaurant,1,1
+Brazilian Restaurant,2,0
+Brazilian Restaurant,3,0
+Brazilian Restaurant,4,0
+Brazilian Restaurant,5,5
+Brazilian Restaurant,6,2
+Brazilian Restaurant,7,2
+Brazilian Restaurant,8,0
+Brazilian Restaurant,9,1
+Brazilian Restaurant,10,1
+Brazilian Restaurant,11,1
+Brazilian Restaurant,12,7
+Brazilian Restaurant,13,10
+Brazilian Restaurant,14,3
+Brazilian Restaurant,15,5
+Brazilian Restaurant,16,5
+Brazilian Restaurant,17,10
+Brazilian Restaurant,18,7
+Brazilian Restaurant,19,12
+Brazilian Restaurant,20,6
+Brazilian Restaurant,21,8
+Brazilian Restaurant,22,4
+Brazilian Restaurant,23,2
+Coffee Shop,0,36
+Coffee Shop,1,31
+Coffee Shop,2,19
+Coffee Shop,3,17
+Coffee Shop,4,39
+Coffee Shop,5,70
+Coffee Shop,6,219
+Coffee Shop,7,671
+Coffee Shop,8,970
+Coffee Shop,9,980
+Coffee Shop,10,522
+Coffee Shop,11,403
+Coffee Shop,12,413
+Coffee Shop,13,492
+Coffee Shop,14,459
+Coffee Shop,15,500
+Coffee Shop,16,412
+Coffee Shop,17,330
+Coffee Shop,18,282
+Coffee Shop,19,237
+Coffee Shop,20,145
+Coffee Shop,21,120
+Coffee Shop,22,86
+Coffee Shop,23,57
+Bike Rental / Bike Share,0,0
+Bike Rental / Bike Share,1,0
+Bike Rental / Bike Share,2,0
+Bike Rental / Bike Share,3,1
+Bike Rental / Bike Share,4,0
+Bike Rental / Bike Share,5,0
+Bike Rental / Bike Share,6,0
+Bike Rental / Bike Share,7,1
+Bike Rental / Bike Share,8,1
+Bike Rental / Bike Share,9,0
+Bike Rental / Bike Share,10,2
+Bike Rental / Bike Share,11,0
+Bike Rental / Bike Share,12,0
+Bike Rental / Bike Share,13,1
+Bike Rental / Bike Share,14,0
+Bike Rental / Bike Share,15,0
+Bike Rental / Bike Share,16,1
+Bike Rental / Bike Share,17,0
+Bike Rental / Bike Share,18,1
+Bike Rental / Bike Share,19,0
+Bike Rental / Bike Share,20,0
+Bike Rental / Bike Share,21,0
+Bike Rental / Bike Share,22,1
+Bike Rental / Bike Share,23,0
+Eastern European Restaurant,0,5
+Eastern European Restaurant,1,1
+Eastern European Restaurant,2,2
+Eastern European Restaurant,3,1
+Eastern European Restaurant,4,1
+Eastern European Restaurant,5,0
+Eastern European Restaurant,6,0
+Eastern European Restaurant,7,1
+Eastern European Restaurant,8,1
+Eastern European Restaurant,9,2
+Eastern European Restaurant,10,4
+Eastern European Restaurant,11,5
+Eastern European Restaurant,12,2
+Eastern European Restaurant,13,5
+Eastern European Restaurant,14,4
+Eastern European Restaurant,15,5
+Eastern European Restaurant,16,0
+Eastern European Restaurant,17,3
+Eastern European Restaurant,18,7
+Eastern European Restaurant,19,12
+Eastern European Restaurant,20,12
+Eastern European Restaurant,21,6
+Eastern European Restaurant,22,8
+Eastern European Restaurant,23,1
+Aquarium,0,0
+Aquarium,1,0
+Aquarium,2,0
+Aquarium,3,0
+Aquarium,4,0
+Aquarium,5,0
+Aquarium,6,0
+Aquarium,7,0
+Aquarium,8,0
+Aquarium,9,0
+Aquarium,10,0
+Aquarium,11,2
+Aquarium,12,0
+Aquarium,13,2
+Aquarium,14,3
+Aquarium,15,2
+Aquarium,16,1
+Aquarium,17,0
+Aquarium,18,1
+Aquarium,19,0
+Aquarium,20,0
+Aquarium,21,0
+Aquarium,22,0
+Aquarium,23,0
+Cupcake Shop,0,0
+Cupcake Shop,1,1
+Cupcake Shop,2,0
+Cupcake Shop,3,0
+Cupcake Shop,4,0
+Cupcake Shop,5,4
+Cupcake Shop,6,3
+Cupcake Shop,7,5
+Cupcake Shop,8,9
+Cupcake Shop,9,15
+Cupcake Shop,10,14
+Cupcake Shop,11,12
+Cupcake Shop,12,15
+Cupcake Shop,13,24
+Cupcake Shop,14,25
+Cupcake Shop,15,23
+Cupcake Shop,16,26
+Cupcake Shop,17,20
+Cupcake Shop,18,16
+Cupcake Shop,19,26
+Cupcake Shop,20,21
+Cupcake Shop,21,7
+Cupcake Shop,22,5
+Cupcake Shop,23,2
+Planetarium,0,0
+Planetarium,1,0
+Planetarium,2,0
+Planetarium,3,0
+Planetarium,4,0
+Planetarium,5,0
+Planetarium,6,0
+Planetarium,7,0
+Planetarium,8,1
+Planetarium,9,0
+Planetarium,10,0
+Planetarium,11,0
+Planetarium,12,2
+Planetarium,13,0
+Planetarium,14,2
+Planetarium,15,2
+Planetarium,16,0
+Planetarium,17,1
+Planetarium,18,2
+Planetarium,19,0
+Planetarium,20,0
+Planetarium,21,1
+Planetarium,22,0
+Planetarium,23,0
+Outdoors & Recreation,0,5
+Outdoors & Recreation,1,2
+Outdoors & Recreation,2,3
+Outdoors & Recreation,3,4
+Outdoors & Recreation,4,5
+Outdoors & Recreation,5,2
+Outdoors & Recreation,6,1
+Outdoors & Recreation,7,6
+Outdoors & Recreation,8,8
+Outdoors & Recreation,9,5
+Outdoors & Recreation,10,4
+Outdoors & Recreation,11,11
+Outdoors & Recreation,12,6
+Outdoors & Recreation,13,7
+Outdoors & Recreation,14,11
+Outdoors & Recreation,15,16
+Outdoors & Recreation,16,17
+Outdoors & Recreation,17,20
+Outdoors & Recreation,18,17
+Outdoors & Recreation,19,13
+Outdoors & Recreation,20,5
+Outdoors & Recreation,21,15
+Outdoors & Recreation,22,6
+Outdoors & Recreation,23,5
+Afghan Restaurant,0,0
+Afghan Restaurant,1,0
+Afghan Restaurant,2,0
+Afghan Restaurant,3,0
+Afghan Restaurant,4,0
+Afghan Restaurant,5,0
+Afghan Restaurant,6,0
+Afghan Restaurant,7,0
+Afghan Restaurant,8,0
+Afghan Restaurant,9,0
+Afghan Restaurant,10,0
+Afghan Restaurant,11,0
+Afghan Restaurant,12,0
+Afghan Restaurant,13,1
+Afghan Restaurant,14,0
+Afghan Restaurant,15,0
+Afghan Restaurant,16,0
+Afghan Restaurant,17,0
+Afghan Restaurant,18,0
+Afghan Restaurant,19,2
+Afghan Restaurant,20,1
+Afghan Restaurant,21,0
+Afghan Restaurant,22,0
+Afghan Restaurant,23,0
+Mediterranean Restaurant,0,4
+Mediterranean Restaurant,1,0
+Mediterranean Restaurant,2,0
+Mediterranean Restaurant,3,0
+Mediterranean Restaurant,4,0
+Mediterranean Restaurant,5,0
+Mediterranean Restaurant,6,0
+Mediterranean Restaurant,7,2
+Mediterranean Restaurant,8,1
+Mediterranean Restaurant,9,1
+Mediterranean Restaurant,10,1
+Mediterranean Restaurant,11,5
+Mediterranean Restaurant,12,14
+Mediterranean Restaurant,13,18
+Mediterranean Restaurant,14,15
+Mediterranean Restaurant,15,10
+Mediterranean Restaurant,16,8
+Mediterranean Restaurant,17,7
+Mediterranean Restaurant,18,9
+Mediterranean Restaurant,19,27
+Mediterranean Restaurant,20,24
+Mediterranean Restaurant,21,21
+Mediterranean Restaurant,22,12
+Mediterranean Restaurant,23,1
+Campground,0,24
+Campground,1,14
+Campground,2,9
+Campground,3,6
+Campground,4,7
+Campground,5,2
+Campground,6,0
+Campground,7,10
+Campground,8,13
+Campground,9,7
+Campground,10,9
+Campground,11,12
+Campground,12,10
+Campground,13,2
+Campground,14,4
+Campground,15,5
+Campground,16,11
+Campground,17,9
+Campground,18,8
+Campground,19,3
+Campground,20,8
+Campground,21,8
+Campground,22,0
+Campground,23,5
+Turkish Restaurant,0,0
+Turkish Restaurant,1,0
+Turkish Restaurant,2,0
+Turkish Restaurant,3,0
+Turkish Restaurant,4,0
+Turkish Restaurant,5,1
+Turkish Restaurant,6,0
+Turkish Restaurant,7,2
+Turkish Restaurant,8,0
+Turkish Restaurant,9,0
+Turkish Restaurant,10,0
+Turkish Restaurant,11,0
+Turkish Restaurant,12,0
+Turkish Restaurant,13,0
+Turkish Restaurant,14,0
+Turkish Restaurant,15,1
+Turkish Restaurant,16,1
+Turkish Restaurant,17,1
+Turkish Restaurant,18,4
+Turkish Restaurant,19,2
+Turkish Restaurant,20,1
+Turkish Restaurant,21,4
+Turkish Restaurant,22,3
+Turkish Restaurant,23,0
+Garden Center,0,1
+Garden Center,1,0
+Garden Center,2,0
+Garden Center,3,1
+Garden Center,4,0
+Garden Center,5,0
+Garden Center,6,0
+Garden Center,7,1
+Garden Center,8,1
+Garden Center,9,3
+Garden Center,10,2
+Garden Center,11,2
+Garden Center,12,0
+Garden Center,13,2
+Garden Center,14,1
+Garden Center,15,2
+Garden Center,16,1
+Garden Center,17,2
+Garden Center,18,2
+Garden Center,19,0
+Garden Center,20,1
+Garden Center,21,2
+Garden Center,22,1
+Garden Center,23,0
+Board Shop,0,0
+Board Shop,1,0
+Board Shop,2,0
+Board Shop,3,0
+Board Shop,4,0
+Board Shop,5,0
+Board Shop,6,0
+Board Shop,7,0
+Board Shop,8,0
+Board Shop,9,0
+Board Shop,10,1
+Board Shop,11,1
+Board Shop,12,0
+Board Shop,13,3
+Board Shop,14,0
+Board Shop,15,3
+Board Shop,16,2
+Board Shop,17,3
+Board Shop,18,2
+Board Shop,19,1
+Board Shop,20,0
+Board Shop,21,0
+Board Shop,22,0
+Board Shop,23,0
+Seafood Restaurant,0,9
+Seafood Restaurant,1,4
+Seafood Restaurant,2,2
+Seafood Restaurant,3,4
+Seafood Restaurant,4,1
+Seafood Restaurant,5,1
+Seafood Restaurant,6,0
+Seafood Restaurant,7,0
+Seafood Restaurant,8,0
+Seafood Restaurant,9,7
+Seafood Restaurant,10,27
+Seafood Restaurant,11,26
+Seafood Restaurant,12,48
+Seafood Restaurant,13,45
+Seafood Restaurant,14,39
+Seafood Restaurant,15,40
+Seafood Restaurant,16,34
+Seafood Restaurant,17,59
+Seafood Restaurant,18,70
+Seafood Restaurant,19,87
+Seafood Restaurant,20,70
+Seafood Restaurant,21,45
+Seafood Restaurant,22,32
+Seafood Restaurant,23,18
+Synagogue,0,4
+Synagogue,1,2
+Synagogue,2,0
+Synagogue,3,0
+Synagogue,4,0
+Synagogue,5,2
+Synagogue,6,2
+Synagogue,7,3
+Synagogue,8,12
+Synagogue,9,16
+Synagogue,10,19
+Synagogue,11,6
+Synagogue,12,6
+Synagogue,13,3
+Synagogue,14,9
+Synagogue,15,3
+Synagogue,16,3
+Synagogue,17,19
+Synagogue,18,12
+Synagogue,19,17
+Synagogue,20,8
+Synagogue,21,23
+Synagogue,22,11
+Synagogue,23,8
+Ski Area,0,0
+Ski Area,1,0
+Ski Area,2,2
+Ski Area,3,0
+Ski Area,4,4
+Ski Area,5,6
+Ski Area,6,4
+Ski Area,7,0
+Ski Area,8,3
+Ski Area,9,3
+Ski Area,10,0
+Ski Area,11,0
+Ski Area,12,3
+Ski Area,13,0
+Ski Area,14,0
+Ski Area,15,0
+Ski Area,16,0
+Ski Area,17,0
+Ski Area,18,0
+Ski Area,19,4
+Ski Area,20,2
+Ski Area,21,0
+Ski Area,22,1
+Ski Area,23,0
+Arcade,0,27
+Arcade,1,30
+Arcade,2,22
+Arcade,3,8
+Arcade,4,5
+Arcade,5,3
+Arcade,6,0
+Arcade,7,5
+Arcade,8,13
+Arcade,9,22
+Arcade,10,28
+Arcade,11,24
+Arcade,12,16
+Arcade,13,9
+Arcade,14,10
+Arcade,15,8
+Arcade,16,3
+Arcade,17,9
+Arcade,18,16
+Arcade,19,22
+Arcade,20,28
+Arcade,21,23
+Arcade,22,20
+Arcade,23,26
+Museum,0,2
+Museum,1,0
+Museum,2,3
+Museum,3,1
+Museum,4,2
+Museum,5,0
+Museum,6,4
+Museum,7,9
+Museum,8,7
+Museum,9,8
+Museum,10,16
+Museum,11,3
+Museum,12,11
+Museum,13,14
+Museum,14,17
+Museum,15,12
+Museum,16,10
+Museum,17,15
+Museum,18,12
+Museum,19,8
+Museum,20,10
+Museum,21,4
+Museum,22,7
+Museum,23,0
+Mosque,0,0
+Mosque,1,2
+Mosque,2,0
+Mosque,3,1
+Mosque,4,1
+Mosque,5,2
+Mosque,6,2
+Mosque,7,0
+Mosque,8,0
+Mosque,9,2
+Mosque,10,0
+Mosque,11,4
+Mosque,12,2
+Mosque,13,13
+Mosque,14,3
+Mosque,15,0
+Mosque,16,0
+Mosque,17,0
+Mosque,18,0
+Mosque,19,2
+Mosque,20,0
+Mosque,21,2
+Mosque,22,0
+Mosque,23,0
+Convention Center,0,5
+Convention Center,1,1
+Convention Center,2,4
+Convention Center,3,2
+Convention Center,4,3
+Convention Center,5,1
+Convention Center,6,11
+Convention Center,7,20
+Convention Center,8,33
+Convention Center,9,39
+Convention Center,10,32
+Convention Center,11,20
+Convention Center,12,18
+Convention Center,13,48
+Convention Center,14,20
+Convention Center,15,23
+Convention Center,16,13
+Convention Center,17,22
+Convention Center,18,17
+Convention Center,19,22
+Convention Center,20,16
+Convention Center,21,7
+Convention Center,22,9
+Convention Center,23,1
+Zoo,0,1
+Zoo,1,0
+Zoo,2,0
+Zoo,3,1
+Zoo,4,1
+Zoo,5,1
+Zoo,6,3
+Zoo,7,6
+Zoo,8,3
+Zoo,9,3
+Zoo,10,9
+Zoo,11,16
+Zoo,12,9
+Zoo,13,7
+Zoo,14,11
+Zoo,15,5
+Zoo,16,3
+Zoo,17,3
+Zoo,18,4
+Zoo,19,6
+Zoo,20,3
+Zoo,21,3
+Zoo,22,4
+Zoo,23,2
+Tattoo Parlor,0,3
+Tattoo Parlor,1,1
+Tattoo Parlor,2,1
+Tattoo Parlor,3,1
+Tattoo Parlor,4,0
+Tattoo Parlor,5,1
+Tattoo Parlor,6,1
+Tattoo Parlor,7,0
+Tattoo Parlor,8,10
+Tattoo Parlor,9,7
+Tattoo Parlor,10,2
+Tattoo Parlor,11,2
+Tattoo Parlor,12,7
+Tattoo Parlor,13,12
+Tattoo Parlor,14,15
+Tattoo Parlor,15,13
+Tattoo Parlor,16,12
+Tattoo Parlor,17,10
+Tattoo Parlor,18,11
+Tattoo Parlor,19,9
+Tattoo Parlor,20,3
+Tattoo Parlor,21,2
+Tattoo Parlor,22,5
+Tattoo Parlor,23,4
+Camera Store,0,0
+Camera Store,1,0
+Camera Store,2,0
+Camera Store,3,0
+Camera Store,4,0
+Camera Store,5,0
+Camera Store,6,0
+Camera Store,7,0
+Camera Store,8,1
+Camera Store,9,5
+Camera Store,10,1
+Camera Store,11,2
+Camera Store,12,1
+Camera Store,13,2
+Camera Store,14,4
+Camera Store,15,5
+Camera Store,16,6
+Camera Store,17,5
+Camera Store,18,0
+Camera Store,19,0
+Camera Store,20,1
+Camera Store,21,1
+Camera Store,22,0
+Camera Store,23,0
+General Entertainment,0,47
+General Entertainment,1,29
+General Entertainment,2,26
+General Entertainment,3,16
+General Entertainment,4,17
+General Entertainment,5,12
+General Entertainment,6,45
+General Entertainment,7,39
+General Entertainment,8,51
+General Entertainment,9,68
+General Entertainment,10,48
+General Entertainment,11,55
+General Entertainment,12,67
+General Entertainment,13,108
+General Entertainment,14,88
+General Entertainment,15,58
+General Entertainment,16,62
+General Entertainment,17,74
+General Entertainment,18,82
+General Entertainment,19,103
+General Entertainment,20,86
+General Entertainment,21,62
+General Entertainment,22,56
+General Entertainment,23,35
+Tapas Restaurant,0,10
+Tapas Restaurant,1,3
+Tapas Restaurant,2,1
+Tapas Restaurant,3,0
+Tapas Restaurant,4,0
+Tapas Restaurant,5,0
+Tapas Restaurant,6,0
+Tapas Restaurant,7,0
+Tapas Restaurant,8,0
+Tapas Restaurant,9,0
+Tapas Restaurant,10,0
+Tapas Restaurant,11,1
+Tapas Restaurant,12,1
+Tapas Restaurant,13,11
+Tapas Restaurant,14,12
+Tapas Restaurant,15,3
+Tapas Restaurant,16,4
+Tapas Restaurant,17,9
+Tapas Restaurant,18,27
+Tapas Restaurant,19,33
+Tapas Restaurant,20,28
+Tapas Restaurant,21,24
+Tapas Restaurant,22,14
+Tapas Restaurant,23,5
+Moving Target,0,13
+Moving Target,1,11
+Moving Target,2,7
+Moving Target,3,3
+Moving Target,4,1
+Moving Target,5,5
+Moving Target,6,16
+Moving Target,7,18
+Moving Target,8,15
+Moving Target,9,27
+Moving Target,10,20
+Moving Target,11,34
+Moving Target,12,40
+Moving Target,13,34
+Moving Target,14,36
+Moving Target,15,33
+Moving Target,16,37
+Moving Target,17,26
+Moving Target,18,32
+Moving Target,19,32
+Moving Target,20,29
+Moving Target,21,20
+Moving Target,22,20
+Moving Target,23,15
+Cosmetics Shop,0,3
+Cosmetics Shop,1,3
+Cosmetics Shop,2,1
+Cosmetics Shop,3,1
+Cosmetics Shop,4,0
+Cosmetics Shop,5,0
+Cosmetics Shop,6,1
+Cosmetics Shop,7,0
+Cosmetics Shop,8,9
+Cosmetics Shop,9,18
+Cosmetics Shop,10,24
+Cosmetics Shop,11,31
+Cosmetics Shop,12,42
+Cosmetics Shop,13,55
+Cosmetics Shop,14,59
+Cosmetics Shop,15,58
+Cosmetics Shop,16,56
+Cosmetics Shop,17,50
+Cosmetics Shop,18,65
+Cosmetics Shop,19,34
+Cosmetics Shop,20,17
+Cosmetics Shop,21,6
+Cosmetics Shop,22,1
+Cosmetics Shop,23,3
+Diner,0,48
+Diner,1,29
+Diner,2,52
+Diner,3,44
+Diner,4,44
+Diner,5,30
+Diner,6,26
+Diner,7,47
+Diner,8,60
+Diner,9,64
+Diner,10,98
+Diner,11,83
+Diner,12,116
+Diner,13,88
+Diner,14,75
+Diner,15,38
+Diner,16,33
+Diner,17,41
+Diner,18,53
+Diner,19,80
+Diner,20,60
+Diner,21,68
+Diner,22,44
+Diner,23,55
+Movie Theater,0,65
+Movie Theater,1,36
+Movie Theater,2,34
+Movie Theater,3,24
+Movie Theater,4,6
+Movie Theater,5,6
+Movie Theater,6,6
+Movie Theater,7,4
+Movie Theater,8,8
+Movie Theater,9,39
+Movie Theater,10,66
+Movie Theater,11,63
+Movie Theater,12,77
+Movie Theater,13,78
+Movie Theater,14,109
+Movie Theater,15,137
+Movie Theater,16,137
+Movie Theater,17,134
+Movie Theater,18,219
+Movie Theater,19,275
+Movie Theater,20,188
+Movie Theater,21,217
+Movie Theater,22,153
+Movie Theater,23,77
+Car Wash,0,0
+Car Wash,1,0
+Car Wash,2,0
+Car Wash,3,0
+Car Wash,4,0
+Car Wash,5,0
+Car Wash,6,0
+Car Wash,7,2
+Car Wash,8,0
+Car Wash,9,3
+Car Wash,10,2
+Car Wash,11,2
+Car Wash,12,7
+Car Wash,13,0
+Car Wash,14,3
+Car Wash,15,6
+Car Wash,16,2
+Car Wash,17,2
+Car Wash,18,2
+Car Wash,19,1
+Car Wash,20,0
+Car Wash,21,0
+Car Wash,22,0
+Car Wash,23,0
+Gym / Fitness Center,0,21
+Gym / Fitness Center,1,20
+Gym / Fitness Center,2,14
+Gym / Fitness Center,3,23
+Gym / Fitness Center,4,56
+Gym / Fitness Center,5,332
+Gym / Fitness Center,6,719
+Gym / Fitness Center,7,638
+Gym / Fitness Center,8,640
+Gym / Fitness Center,9,608
+Gym / Fitness Center,10,470
+Gym / Fitness Center,11,454
+Gym / Fitness Center,12,541
+Gym / Fitness Center,13,461
+Gym / Fitness Center,14,326
+Gym / Fitness Center,15,363
+Gym / Fitness Center,16,349
+Gym / Fitness Center,17,667
+Gym / Fitness Center,18,891
+Gym / Fitness Center,19,740
+Gym / Fitness Center,20,451
+Gym / Fitness Center,21,230
+Gym / Fitness Center,22,110
+Gym / Fitness Center,23,47
+College & University,0,1
+College & University,1,0
+College & University,2,0
+College & University,3,0
+College & University,4,0
+College & University,5,1
+College & University,6,0
+College & University,7,7
+College & University,8,7
+College & University,9,5
+College & University,10,4
+College & University,11,6
+College & University,12,4
+College & University,13,6
+College & University,14,1
+College & University,15,2
+College & University,16,5
+College & University,17,4
+College & University,18,1
+College & University,19,1
+College & University,20,1
+College & University,21,0
+College & University,22,0
+College & University,23,0
+Science Museum,0,2
+Science Museum,1,1
+Science Museum,2,0
+Science Museum,3,1
+Science Museum,4,0
+Science Museum,5,1
+Science Museum,6,2
+Science Museum,7,1
+Science Museum,8,0
+Science Museum,9,2
+Science Museum,10,10
+Science Museum,11,5
+Science Museum,12,12
+Science Museum,13,7
+Science Museum,14,14
+Science Museum,15,7
+Science Museum,16,3
+Science Museum,17,4
+Science Museum,18,4
+Science Museum,19,0
+Science Museum,20,0
+Science Museum,21,4
+Science Museum,22,1
+Science Museum,23,0
+Recycling Facility,0,0
+Recycling Facility,1,0
+Recycling Facility,2,0
+Recycling Facility,3,0
+Recycling Facility,4,0
+Recycling Facility,5,0
+Recycling Facility,6,0
+Recycling Facility,7,0
+Recycling Facility,8,5
+Recycling Facility,9,28
+Recycling Facility,10,5
+Recycling Facility,11,4
+Recycling Facility,12,4
+Recycling Facility,13,1
+Recycling Facility,14,4
+Recycling Facility,15,3
+Recycling Facility,16,1
+Recycling Facility,17,1
+Recycling Facility,18,0
+Recycling Facility,19,0
+Recycling Facility,20,0
+Recycling Facility,21,0
+Recycling Facility,22,0
+Recycling Facility,23,0
+Park,0,57
+Park,1,31
+Park,2,28
+Park,3,55
+Park,4,29
+Park,5,82
+Park,6,130
+Park,7,272
+Park,8,295
+Park,9,180
+Park,10,184
+Park,11,169
+Park,12,241
+Park,13,363
+Park,14,328
+Park,15,351
+Park,16,347
+Park,17,370
+Park,18,362
+Park,19,312
+Park,20,234
+Park,21,157
+Park,22,119
+Park,23,108
+Hardware Store,0,1
+Hardware Store,1,5
+Hardware Store,2,6
+Hardware Store,3,0
+Hardware Store,4,0
+Hardware Store,5,16
+Hardware Store,6,7
+Hardware Store,7,7
+Hardware Store,8,10
+Hardware Store,9,15
+Hardware Store,10,28
+Hardware Store,11,38
+Hardware Store,12,26
+Hardware Store,13,40
+Hardware Store,14,53
+Hardware Store,15,50
+Hardware Store,16,31
+Hardware Store,17,27
+Hardware Store,18,33
+Hardware Store,19,30
+Hardware Store,20,13
+Hardware Store,21,7
+Hardware Store,22,9
+Hardware Store,23,3
+Scenic Lookout,0,17
+Scenic Lookout,1,8
+Scenic Lookout,2,5
+Scenic Lookout,3,5
+Scenic Lookout,4,2
+Scenic Lookout,5,5
+Scenic Lookout,6,8
+Scenic Lookout,7,13
+Scenic Lookout,8,19
+Scenic Lookout,9,16
+Scenic Lookout,10,32
+Scenic Lookout,11,20
+Scenic Lookout,12,18
+Scenic Lookout,13,23
+Scenic Lookout,14,32
+Scenic Lookout,15,48
+Scenic Lookout,16,22
+Scenic Lookout,17,36
+Scenic Lookout,18,36
+Scenic Lookout,19,33
+Scenic Lookout,20,31
+Scenic Lookout,21,18
+Scenic Lookout,22,18
+Scenic Lookout,23,18
+Convenience Store,0,24
+Convenience Store,1,16
+Convenience Store,2,12
+Convenience Store,3,8
+Convenience Store,4,1
+Convenience Store,5,29
+Convenience Store,6,16
+Convenience Store,7,25
+Convenience Store,8,35
+Convenience Store,9,16
+Convenience Store,10,31
+Convenience Store,11,22
+Convenience Store,12,56
+Convenience Store,13,62
+Convenience Store,14,50
+Convenience Store,15,35
+Convenience Store,16,38
+Convenience Store,17,41
+Convenience Store,18,32
+Convenience Store,19,38
+Convenience Store,20,23
+Convenience Store,21,16
+Convenience Store,22,13
+Convenience Store,23,13
+Public Art,0,0
+Public Art,1,1
+Public Art,2,0
+Public Art,3,0
+Public Art,4,0
+Public Art,5,2
+Public Art,6,0
+Public Art,7,0
+Public Art,8,1
+Public Art,9,0
+Public Art,10,0
+Public Art,11,1
+Public Art,12,2
+Public Art,13,7
+Public Art,14,2
+Public Art,15,2
+Public Art,16,2
+Public Art,17,3
+Public Art,18,0
+Public Art,19,1
+Public Art,20,0
+Public Art,21,0
+Public Art,22,0
+Public Art,23,1
+Train Station,0,128
+Train Station,1,44
+Train Station,2,24
+Train Station,3,27
+Train Station,4,20
+Train Station,5,62
+Train Station,6,237
+Train Station,7,452
+Train Station,8,811
+Train Station,9,495
+Train Station,10,247
+Train Station,11,217
+Train Station,12,190
+Train Station,13,260
+Train Station,14,256
+Train Station,15,274
+Train Station,16,265
+Train Station,17,518
+Train Station,18,629
+Train Station,19,399
+Train Station,20,296
+Train Station,21,211
+Train Station,22,175
+Train Station,23,171
+Spa / Massage,0,6
+Spa / Massage,1,1
+Spa / Massage,2,2
+Spa / Massage,3,2
+Spa / Massage,4,0
+Spa / Massage,5,0
+Spa / Massage,6,6
+Spa / Massage,7,9
+Spa / Massage,8,12
+Spa / Massage,9,13
+Spa / Massage,10,18
+Spa / Massage,11,22
+Spa / Massage,12,36
+Spa / Massage,13,45
+Spa / Massage,14,42
+Spa / Massage,15,46
+Spa / Massage,16,41
+Spa / Massage,17,69
+Spa / Massage,18,45
+Spa / Massage,19,44
+Spa / Massage,20,15
+Spa / Massage,21,15
+Spa / Massage,22,8
+Spa / Massage,23,2
+Miscellaneous Shop,0,11
+Miscellaneous Shop,1,3
+Miscellaneous Shop,2,5
+Miscellaneous Shop,3,5
+Miscellaneous Shop,4,5
+Miscellaneous Shop,5,7
+Miscellaneous Shop,6,13
+Miscellaneous Shop,7,28
+Miscellaneous Shop,8,61
+Miscellaneous Shop,9,74
+Miscellaneous Shop,10,58
+Miscellaneous Shop,11,63
+Miscellaneous Shop,12,100
+Miscellaneous Shop,13,76
+Miscellaneous Shop,14,72
+Miscellaneous Shop,15,88
+Miscellaneous Shop,16,63
+Miscellaneous Shop,17,99
+Miscellaneous Shop,18,83
+Miscellaneous Shop,19,65
+Miscellaneous Shop,20,33
+Miscellaneous Shop,21,29
+Miscellaneous Shop,22,14
+Miscellaneous Shop,23,11
+Antique Shop,0,1
+Antique Shop,1,0
+Antique Shop,2,0
+Antique Shop,3,0
+Antique Shop,4,0
+Antique Shop,5,0
+Antique Shop,6,0
+Antique Shop,7,0
+Antique Shop,8,1
+Antique Shop,9,5
+Antique Shop,10,2
+Antique Shop,11,0
+Antique Shop,12,4
+Antique Shop,13,0
+Antique Shop,14,4
+Antique Shop,15,3
+Antique Shop,16,2
+Antique Shop,17,2
+Antique Shop,18,1
+Antique Shop,19,0
+Antique Shop,20,1
+Antique Shop,21,0
+Antique Shop,22,1
+Antique Shop,23,0
+Nail Salon,0,1
+Nail Salon,1,0
+Nail Salon,2,0
+Nail Salon,3,1
+Nail Salon,4,0
+Nail Salon,5,0
+Nail Salon,6,1
+Nail Salon,7,2
+Nail Salon,8,0
+Nail Salon,9,1
+Nail Salon,10,3
+Nail Salon,11,1
+Nail Salon,12,3
+Nail Salon,13,7
+Nail Salon,14,11
+Nail Salon,15,13
+Nail Salon,16,16
+Nail Salon,17,8
+Nail Salon,18,10
+Nail Salon,19,4
+Nail Salon,20,2
+Nail Salon,21,2
+Nail Salon,22,1
+Nail Salon,23,1
+Art Museum,0,2
+Art Museum,1,1
+Art Museum,2,4
+Art Museum,3,3
+Art Museum,4,4
+Art Museum,5,4
+Art Museum,6,8
+Art Museum,7,6
+Art Museum,8,3
+Art Museum,9,12
+Art Museum,10,14
+Art Museum,11,21
+Art Museum,12,17
+Art Museum,13,17
+Art Museum,14,24
+Art Museum,15,43
+Art Museum,16,38
+Art Museum,17,26
+Art Museum,18,22
+Art Museum,19,26
+Art Museum,20,24
+Art Museum,21,4
+Art Museum,22,1
+Art Museum,23,2
+Candy Store,0,0
+Candy Store,1,2
+Candy Store,2,1
+Candy Store,3,1
+Candy Store,4,9
+Candy Store,5,5
+Candy Store,6,3
+Candy Store,7,2
+Candy Store,8,8
+Candy Store,9,5
+Candy Store,10,10
+Candy Store,11,6
+Candy Store,12,6
+Candy Store,13,11
+Candy Store,14,14
+Candy Store,15,18
+Candy Store,16,18
+Candy Store,17,20
+Candy Store,18,26
+Candy Store,19,16
+Candy Store,20,9
+Candy Store,21,6
+Candy Store,22,4
+Candy Store,23,1
+Greek Restaurant,0,2
+Greek Restaurant,1,2
+Greek Restaurant,2,1
+Greek Restaurant,3,0
+Greek Restaurant,4,1
+Greek Restaurant,5,2
+Greek Restaurant,6,0
+Greek Restaurant,7,1
+Greek Restaurant,8,2
+Greek Restaurant,9,1
+Greek Restaurant,10,0
+Greek Restaurant,11,3
+Greek Restaurant,12,8
+Greek Restaurant,13,12
+Greek Restaurant,14,5
+Greek Restaurant,15,8
+Greek Restaurant,16,7
+Greek Restaurant,17,3
+Greek Restaurant,18,14
+Greek Restaurant,19,10
+Greek Restaurant,20,32
+Greek Restaurant,21,8
+Greek Restaurant,22,11
+Greek Restaurant,23,8
+School,0,13
+School,1,9
+School,2,7
+School,3,4
+School,4,2
+School,5,3
+School,6,13
+School,7,153
+School,8,237
+School,9,189
+School,10,59
+School,11,41
+School,12,42
+School,13,38
+School,14,54
+School,15,74
+School,16,41
+School,17,36
+School,18,30
+School,19,30
+School,20,20
+School,21,14
+School,22,22
+School,23,12
+Theater,0,9
+Theater,1,5
+Theater,2,7
+Theater,3,5
+Theater,4,3
+Theater,5,0
+Theater,6,8
+Theater,7,9
+Theater,8,12
+Theater,9,38
+Theater,10,44
+Theater,11,29
+Theater,12,42
+Theater,13,75
+Theater,14,59
+Theater,15,38
+Theater,16,37
+Theater,17,60
+Theater,18,146
+Theater,19,261
+Theater,20,104
+Theater,21,47
+Theater,22,30
+Theater,23,14
+Caribbean Restaurant,0,10
+Caribbean Restaurant,1,7
+Caribbean Restaurant,2,2
+Caribbean Restaurant,3,1
+Caribbean Restaurant,4,2
+Caribbean Restaurant,5,11
+Caribbean Restaurant,6,22
+Caribbean Restaurant,7,15
+Caribbean Restaurant,8,13
+Caribbean Restaurant,9,12
+Caribbean Restaurant,10,18
+Caribbean Restaurant,11,19
+Caribbean Restaurant,12,18
+Caribbean Restaurant,13,26
+Caribbean Restaurant,14,27
+Caribbean Restaurant,15,12
+Caribbean Restaurant,16,19
+Caribbean Restaurant,17,38
+Caribbean Restaurant,18,36
+Caribbean Restaurant,19,36
+Caribbean Restaurant,20,34
+Caribbean Restaurant,21,13
+Caribbean Restaurant,22,16
+Caribbean Restaurant,23,14
+General College & University,0,3
+General College & University,1,1
+General College & University,2,0
+General College & University,3,0
+General College & University,4,4
+General College & University,5,1
+General College & University,6,1
+General College & University,7,38
+General College & University,8,48
+General College & University,9,37
+General College & University,10,24
+General College & University,11,19
+General College & University,12,32
+General College & University,13,38
+General College & University,14,24
+General College & University,15,27
+General College & University,16,33
+General College & University,17,40
+General College & University,18,43
+General College & University,19,27
+General College & University,20,9
+General College & University,21,3
+General College & University,22,1
+General College & University,23,2
+Clothing Store,0,15
+Clothing Store,1,12
+Clothing Store,2,11
+Clothing Store,3,9
+Clothing Store,4,5
+Clothing Store,5,14
+Clothing Store,6,19
+Clothing Store,7,54
+Clothing Store,8,47
+Clothing Store,9,74
+Clothing Store,10,133
+Clothing Store,11,150
+Clothing Store,12,181
+Clothing Store,13,296
+Clothing Store,14,232
+Clothing Store,15,276
+Clothing Store,16,300
+Clothing Store,17,301
+Clothing Store,18,312
+Clothing Store,19,266
+Clothing Store,20,154
+Clothing Store,21,77
+Clothing Store,22,19
+Clothing Store,23,19
+University,0,5
+University,1,9
+University,2,5
+University,3,5
+University,4,6
+University,5,5
+University,6,7
+University,7,29
+University,8,109
+University,9,128
+University,10,106
+University,11,86
+University,12,88
+University,13,76
+University,14,61
+University,15,51
+University,16,36
+University,17,89
+University,18,72
+University,19,48
+University,20,18
+University,21,13
+University,22,15
+University,23,4
+Plaza,0,45
+Plaza,1,25
+Plaza,2,24
+Plaza,3,19
+Plaza,4,9
+Plaza,5,12
+Plaza,6,23
+Plaza,7,33
+Plaza,8,49
+Plaza,9,53
+Plaza,10,51
+Plaza,11,60
+Plaza,12,80
+Plaza,13,196
+Plaza,14,81
+Plaza,15,82
+Plaza,16,92
+Plaza,17,90
+Plaza,18,126
+Plaza,19,107
+Plaza,20,95
+Plaza,21,75
+Plaza,22,60
+Plaza,23,28
+Rest Area,0,1
+Rest Area,1,0
+Rest Area,2,3
+Rest Area,3,0
+Rest Area,4,5
+Rest Area,5,12
+Rest Area,6,7
+Rest Area,7,12
+Rest Area,8,13
+Rest Area,9,6
+Rest Area,10,4
+Rest Area,11,3
+Rest Area,12,5
+Rest Area,13,6
+Rest Area,14,3
+Rest Area,15,10
+Rest Area,16,6
+Rest Area,17,5
+Rest Area,18,6
+Rest Area,19,8
+Rest Area,20,5
+Rest Area,21,5
+Rest Area,22,5
+Rest Area,23,1
+Racetrack,0,0
+Racetrack,1,2
+Racetrack,2,0
+Racetrack,3,0
+Racetrack,4,0
+Racetrack,5,0
+Racetrack,6,0
+Racetrack,7,5
+Racetrack,8,4
+Racetrack,9,1
+Racetrack,10,1
+Racetrack,11,5
+Racetrack,12,0
+Racetrack,13,0
+Racetrack,14,1
+Racetrack,15,2
+Racetrack,16,8
+Racetrack,17,10
+Racetrack,18,14
+Racetrack,19,6
+Racetrack,20,2
+Racetrack,21,8
+Racetrack,22,4
+Racetrack,23,3
+African Restaurant,0,3
+African Restaurant,1,0
+African Restaurant,2,0
+African Restaurant,3,0
+African Restaurant,4,0
+African Restaurant,5,0
+African Restaurant,6,0
+African Restaurant,7,1
+African Restaurant,8,0
+African Restaurant,9,4
+African Restaurant,10,0
+African Restaurant,11,1
+African Restaurant,12,1
+African Restaurant,13,4
+African Restaurant,14,3
+African Restaurant,15,2
+African Restaurant,16,2
+African Restaurant,17,1
+African Restaurant,18,1
+African Restaurant,19,8
+African Restaurant,20,2
+African Restaurant,21,3
+African Restaurant,22,2
+African Restaurant,23,2
+Event Space,0,19
+Event Space,1,6
+Event Space,2,8
+Event Space,3,12
+Event Space,4,3
+Event Space,5,3
+Event Space,6,6
+Event Space,7,7
+Event Space,8,33
+Event Space,9,73
+Event Space,10,28
+Event Space,11,32
+Event Space,12,61
+Event Space,13,27
+Event Space,14,26
+Event Space,15,21
+Event Space,16,27
+Event Space,17,37
+Event Space,18,69
+Event Space,19,62
+Event Space,20,43
+Event Space,21,26
+Event Space,22,26
+Event Space,23,22
+Mall,0,7
+Mall,1,4
+Mall,2,4
+Mall,3,5
+Mall,4,3
+Mall,5,3
+Mall,6,6
+Mall,7,11
+Mall,8,20
+Mall,9,36
+Mall,10,44
+Mall,11,75
+Mall,12,86
+Mall,13,105
+Mall,14,87
+Mall,15,95
+Mall,16,107
+Mall,17,127
+Mall,18,114
+Mall,19,104
+Mall,20,75
+Mall,21,41
+Mall,22,16
+Mall,23,12
+Elementary School,0,0
+Elementary School,1,0
+Elementary School,2,0
+Elementary School,3,0
+Elementary School,4,0
+Elementary School,5,1
+Elementary School,6,0
+Elementary School,7,16
+Elementary School,8,39
+Elementary School,9,20
+Elementary School,10,8
+Elementary School,11,4
+Elementary School,12,2
+Elementary School,13,5
+Elementary School,14,11
+Elementary School,15,12
+Elementary School,16,3
+Elementary School,17,3
+Elementary School,18,3
+Elementary School,19,8
+Elementary School,20,2
+Elementary School,21,1
+Elementary School,22,2
+Elementary School,23,0
+Steakhouse,0,5
+Steakhouse,1,2
+Steakhouse,2,2
+Steakhouse,3,2
+Steakhouse,4,2
+Steakhouse,5,1
+Steakhouse,6,0
+Steakhouse,7,2
+Steakhouse,8,3
+Steakhouse,9,5
+Steakhouse,10,1
+Steakhouse,11,7
+Steakhouse,12,29
+Steakhouse,13,16
+Steakhouse,14,10
+Steakhouse,15,15
+Steakhouse,16,16
+Steakhouse,17,27
+Steakhouse,18,43
+Steakhouse,19,54
+Steakhouse,20,53
+Steakhouse,21,43
+Steakhouse,22,22
+Steakhouse,23,9
+Subway,0,151
+Subway,1,118
+Subway,2,60
+Subway,3,71
+Subway,4,120
+Subway,5,204
+Subway,6,403
+Subway,7,916
+Subway,8,1167
+Subway,9,611
+Subway,10,433
+Subway,11,339
+Subway,12,354
+Subway,13,418
+Subway,14,380
+Subway,15,415
+Subway,16,413
+Subway,17,516
+Subway,18,466
+Subway,19,485
+Subway,20,475
+Subway,21,345
+Subway,22,262
+Subway,23,226
+Electronics Store,0,11
+Electronics Store,1,12
+Electronics Store,2,14
+Electronics Store,3,5
+Electronics Store,4,3
+Electronics Store,5,3
+Electronics Store,6,7
+Electronics Store,7,25
+Electronics Store,8,26
+Electronics Store,9,64
+Electronics Store,10,60
+Electronics Store,11,74
+Electronics Store,12,95
+Electronics Store,13,134
+Electronics Store,14,96
+Electronics Store,15,123
+Electronics Store,16,114
+Electronics Store,17,94
+Electronics Store,18,124
+Electronics Store,19,94
+Electronics Store,20,103
+Electronics Store,21,45
+Electronics Store,22,22
+Electronics Store,23,13
+Burrito Place,0,1
+Burrito Place,1,0
+Burrito Place,2,1
+Burrito Place,3,2
+Burrito Place,4,0
+Burrito Place,5,0
+Burrito Place,6,0
+Burrito Place,7,2
+Burrito Place,8,12
+Burrito Place,9,11
+Burrito Place,10,41
+Burrito Place,11,3
+Burrito Place,12,26
+Burrito Place,13,29
+Burrito Place,14,13
+Burrito Place,15,17
+Burrito Place,16,11
+Burrito Place,17,20
+Burrito Place,18,21
+Burrito Place,19,32
+Burrito Place,20,23
+Burrito Place,21,12
+Burrito Place,22,12
+Burrito Place,23,4
+Ramen /  Noodle House,0,3
+Ramen /  Noodle House,1,0
+Ramen /  Noodle House,2,0
+Ramen /  Noodle House,3,2
+Ramen /  Noodle House,4,6
+Ramen /  Noodle House,5,2
+Ramen /  Noodle House,6,0
+Ramen /  Noodle House,7,0
+Ramen /  Noodle House,8,0
+Ramen /  Noodle House,9,0
+Ramen /  Noodle House,10,0
+Ramen /  Noodle House,11,4
+Ramen /  Noodle House,12,33
+Ramen /  Noodle House,13,40
+Ramen /  Noodle House,14,47
+Ramen /  Noodle House,15,12
+Ramen /  Noodle House,16,7
+Ramen /  Noodle House,17,14
+Ramen /  Noodle House,18,29
+Ramen /  Noodle House,19,37
+Ramen /  Noodle House,20,43
+Ramen /  Noodle House,21,29
+Ramen /  Noodle House,22,15
+Ramen /  Noodle House,23,9
+Arepa Restaurant,0,0
+Arepa Restaurant,1,0
+Arepa Restaurant,2,0
+Arepa Restaurant,3,0
+Arepa Restaurant,4,0
+Arepa Restaurant,5,0
+Arepa Restaurant,6,0
+Arepa Restaurant,7,0
+Arepa Restaurant,8,0
+Arepa Restaurant,9,0
+Arepa Restaurant,10,0
+Arepa Restaurant,11,0
+Arepa Restaurant,12,2
+Arepa Restaurant,13,2
+Arepa Restaurant,14,2
+Arepa Restaurant,15,3
+Arepa Restaurant,16,1
+Arepa Restaurant,17,0
+Arepa Restaurant,18,0
+Arepa Restaurant,19,2
+Arepa Restaurant,20,5
+Arepa Restaurant,21,1
+Arepa Restaurant,22,1
+Arepa Restaurant,23,1
+Neighborhood,0,124
+Neighborhood,1,110
+Neighborhood,2,80
+Neighborhood,3,73
+Neighborhood,4,65
+Neighborhood,5,74
+Neighborhood,6,153
+Neighborhood,7,247
+Neighborhood,8,300
+Neighborhood,9,229
+Neighborhood,10,223
+Neighborhood,11,203
+Neighborhood,12,190
+Neighborhood,13,176
+Neighborhood,14,211
+Neighborhood,15,224
+Neighborhood,16,236
+Neighborhood,17,244
+Neighborhood,18,311
+Neighborhood,19,269
+Neighborhood,20,297
+Neighborhood,21,214
+Neighborhood,22,186
+Neighborhood,23,165
+Fair,0,1
+Fair,1,0
+Fair,2,0
+Fair,3,0
+Fair,4,0
+Fair,5,0
+Fair,6,0
+Fair,7,0
+Fair,8,0
+Fair,9,0
+Fair,10,0
+Fair,11,1
+Fair,12,2
+Fair,13,1
+Fair,14,6
+Fair,15,2
+Fair,16,1
+Fair,17,1
+Fair,18,4
+Fair,19,1
+Fair,20,2
+Fair,21,0
+Fair,22,0
+Fair,23,2
+Gastropub,0,13
+Gastropub,1,12
+Gastropub,2,3
+Gastropub,3,3
+Gastropub,4,0
+Gastropub,5,0
+Gastropub,6,0
+Gastropub,7,0
+Gastropub,8,0
+Gastropub,9,3
+Gastropub,10,3
+Gastropub,11,3
+Gastropub,12,13
+Gastropub,13,14
+Gastropub,14,11
+Gastropub,15,7
+Gastropub,16,11
+Gastropub,17,19
+Gastropub,18,41
+Gastropub,19,52
+Gastropub,20,42
+Gastropub,21,38
+Gastropub,22,21
+Gastropub,23,23
+Wings Joint,0,3
+Wings Joint,1,3
+Wings Joint,2,0
+Wings Joint,3,0
+Wings Joint,4,0
+Wings Joint,5,0
+Wings Joint,6,0
+Wings Joint,7,0
+Wings Joint,8,0
+Wings Joint,9,0
+Wings Joint,10,0
+Wings Joint,11,1
+Wings Joint,12,5
+Wings Joint,13,10
+Wings Joint,14,9
+Wings Joint,15,7
+Wings Joint,16,6
+Wings Joint,17,15
+Wings Joint,18,17
+Wings Joint,19,23
+Wings Joint,20,20
+Wings Joint,21,18
+Wings Joint,22,8
+Wings Joint,23,4
+Nightlife Spot,0,2
+Nightlife Spot,1,1
+Nightlife Spot,2,1
+Nightlife Spot,3,0
+Nightlife Spot,4,0
+Nightlife Spot,5,0
+Nightlife Spot,6,0
+Nightlife Spot,7,1
+Nightlife Spot,8,1
+Nightlife Spot,9,0
+Nightlife Spot,10,0
+Nightlife Spot,11,2
+Nightlife Spot,12,1
+Nightlife Spot,13,0
+Nightlife Spot,14,1
+Nightlife Spot,15,1
+Nightlife Spot,16,0
+Nightlife Spot,17,0
+Nightlife Spot,18,0
+Nightlife Spot,19,1
+Nightlife Spot,20,4
+Nightlife Spot,21,3
+Nightlife Spot,22,1
+Nightlife Spot,23,0
+Medical School,0,0
+Medical School,1,0
+Medical School,2,0
+Medical School,3,0
+Medical School,4,0
+Medical School,5,0
+Medical School,6,6
+Medical School,7,5
+Medical School,8,5
+Medical School,9,13
+Medical School,10,5
+Medical School,11,2
+Medical School,12,1
+Medical School,13,3
+Medical School,14,6
+Medical School,15,0
+Medical School,16,3
+Medical School,17,0
+Medical School,18,2
+Medical School,19,0
+Medical School,20,1
+Medical School,21,1
+Medical School,22,0
+Medical School,23,0
+Toy / Game Store,0,5
+Toy / Game Store,1,0
+Toy / Game Store,2,0
+Toy / Game Store,3,2
+Toy / Game Store,4,0
+Toy / Game Store,5,1
+Toy / Game Store,6,0
+Toy / Game Store,7,1
+Toy / Game Store,8,3
+Toy / Game Store,9,14
+Toy / Game Store,10,6
+Toy / Game Store,11,10
+Toy / Game Store,12,17
+Toy / Game Store,13,18
+Toy / Game Store,14,16
+Toy / Game Store,15,16
+Toy / Game Store,16,28
+Toy / Game Store,17,22
+Toy / Game Store,18,18
+Toy / Game Store,19,18
+Toy / Game Store,20,17
+Toy / Game Store,21,8
+Toy / Game Store,22,6
+Toy / Game Store,23,3
+Animal Shelter,0,0
+Animal Shelter,1,1
+Animal Shelter,2,1
+Animal Shelter,3,0
+Animal Shelter,4,1
+Animal Shelter,5,3
+Animal Shelter,6,3
+Animal Shelter,7,0
+Animal Shelter,8,8
+Animal Shelter,9,3
+Animal Shelter,10,2
+Animal Shelter,11,1
+Animal Shelter,12,6
+Animal Shelter,13,2
+Animal Shelter,14,10
+Animal Shelter,15,4
+Animal Shelter,16,1
+Animal Shelter,17,3
+Animal Shelter,18,6
+Animal Shelter,19,4
+Animal Shelter,20,1
+Animal Shelter,21,1
+Animal Shelter,22,0
+Animal Shelter,23,1
+Donut Shop,0,10
+Donut Shop,1,8
+Donut Shop,2,6
+Donut Shop,3,7
+Donut Shop,4,7
+Donut Shop,5,25
+Donut Shop,6,80
+Donut Shop,7,141
+Donut Shop,8,167
+Donut Shop,9,136
+Donut Shop,10,89
+Donut Shop,11,42
+Donut Shop,12,52
+Donut Shop,13,56
+Donut Shop,14,74
+Donut Shop,15,49
+Donut Shop,16,35
+Donut Shop,17,33
+Donut Shop,18,29
+Donut Shop,19,38
+Donut Shop,20,28
+Donut Shop,21,27
+Donut Shop,22,17
+Donut Shop,23,12
+High School,0,10
+High School,1,5
+High School,2,1
+High School,3,1
+High School,4,1
+High School,5,0
+High School,6,9
+High School,7,126
+High School,8,126
+High School,9,41
+High School,10,33
+High School,11,27
+High School,12,14
+High School,13,27
+High School,14,48
+High School,15,26
+High School,16,16
+High School,17,23
+High School,18,41
+High School,19,29
+High School,20,20
+High School,21,8
+High School,22,7
+High School,23,9
+Nursery School,0,0
+Nursery School,1,0
+Nursery School,2,1
+Nursery School,3,0
+Nursery School,4,0
+Nursery School,5,0
+Nursery School,6,0
+Nursery School,7,1
+Nursery School,8,49
+Nursery School,9,13
+Nursery School,10,2
+Nursery School,11,3
+Nursery School,12,10
+Nursery School,13,4
+Nursery School,14,4
+Nursery School,15,3
+Nursery School,16,0
+Nursery School,17,2
+Nursery School,18,0
+Nursery School,19,0
+Nursery School,20,0
+Nursery School,21,0
+Nursery School,22,2
+Nursery School,23,0
+Gaming Cafe,0,1
+Gaming Cafe,1,0
+Gaming Cafe,2,1
+Gaming Cafe,3,1
+Gaming Cafe,4,0
+Gaming Cafe,5,0
+Gaming Cafe,6,0
+Gaming Cafe,7,0
+Gaming Cafe,8,1
+Gaming Cafe,9,0
+Gaming Cafe,10,0
+Gaming Cafe,11,1
+Gaming Cafe,12,1
+Gaming Cafe,13,1
+Gaming Cafe,14,2
+Gaming Cafe,15,0
+Gaming Cafe,16,0
+Gaming Cafe,17,1
+Gaming Cafe,18,3
+Gaming Cafe,19,0
+Gaming Cafe,20,0
+Gaming Cafe,21,0
+Gaming Cafe,22,0
+Gaming Cafe,23,1
+General Travel,0,63
+General Travel,1,30
+General Travel,2,27
+General Travel,3,21
+General Travel,4,15
+General Travel,5,8
+General Travel,6,32
+General Travel,7,85
+General Travel,8,52
+General Travel,9,43
+General Travel,10,36
+General Travel,11,44
+General Travel,12,129
+General Travel,13,54
+General Travel,14,63
+General Travel,15,81
+General Travel,16,66
+General Travel,17,77
+General Travel,18,54
+General Travel,19,43
+General Travel,20,32
+General Travel,21,40
+General Travel,22,23
+General Travel,23,41
+Cafe,0,21
+Cafe,1,10
+Cafe,2,7
+Cafe,3,29
+Cafe,4,0
+Cafe,5,5
+Cafe,6,15
+Cafe,7,72
+Cafe,8,140
+Cafe,9,141
+Cafe,10,106
+Cafe,11,85
+Cafe,12,136
+Cafe,13,160
+Cafe,14,115
+Cafe,15,84
+Cafe,16,67
+Cafe,17,60
+Cafe,18,69
+Cafe,19,60
+Cafe,20,65
+Cafe,21,54
+Cafe,22,59
+Cafe,23,25
+Funeral Home,0,1
+Funeral Home,1,0
+Funeral Home,2,5
+Funeral Home,3,2
+Funeral Home,4,0
+Funeral Home,5,0
+Funeral Home,6,1
+Funeral Home,7,1
+Funeral Home,8,1
+Funeral Home,9,1
+Funeral Home,10,1
+Funeral Home,11,2
+Funeral Home,12,3
+Funeral Home,13,7
+Funeral Home,14,5
+Funeral Home,15,7
+Funeral Home,16,5
+Funeral Home,17,3
+Funeral Home,18,3
+Funeral Home,19,2
+Funeral Home,20,6
+Funeral Home,21,2
+Funeral Home,22,4
+Funeral Home,23,2
+Hotel,0,79
+Hotel,1,64
+Hotel,2,179
+Hotel,3,14
+Hotel,4,14
+Hotel,5,27
+Hotel,6,85
+Hotel,7,82
+Hotel,8,137
+Hotel,9,340
+Hotel,10,161
+Hotel,11,102
+Hotel,12,126
+Hotel,13,127
+Hotel,14,186
+Hotel,15,104
+Hotel,16,94
+Hotel,17,118
+Hotel,18,176
+Hotel,19,148
+Hotel,20,144
+Hotel,21,104
+Hotel,22,124
+Hotel,23,125
+Food & Drink Shop,0,39
+Food & Drink Shop,1,45
+Food & Drink Shop,2,33
+Food & Drink Shop,3,21
+Food & Drink Shop,4,20
+Food & Drink Shop,5,38
+Food & Drink Shop,6,84
+Food & Drink Shop,7,137
+Food & Drink Shop,8,267
+Food & Drink Shop,9,309
+Food & Drink Shop,10,310
+Food & Drink Shop,11,310
+Food & Drink Shop,12,450
+Food & Drink Shop,13,516
+Food & Drink Shop,14,554
+Food & Drink Shop,15,515
+Food & Drink Shop,16,501
+Food & Drink Shop,17,508
+Food & Drink Shop,18,559
+Food & Drink Shop,19,521
+Food & Drink Shop,20,393
+Food & Drink Shop,21,206
+Food & Drink Shop,22,151
+Food & Drink Shop,23,109
+Australian Restaurant,0,2
+Australian Restaurant,1,1
+Australian Restaurant,2,2
+Australian Restaurant,3,0
+Australian Restaurant,4,0
+Australian Restaurant,5,0
+Australian Restaurant,6,0
+Australian Restaurant,7,0
+Australian Restaurant,8,1
+Australian Restaurant,9,3
+Australian Restaurant,10,0
+Australian Restaurant,11,3
+Australian Restaurant,12,3
+Australian Restaurant,13,9
+Australian Restaurant,14,7
+Australian Restaurant,15,6
+Australian Restaurant,16,0
+Australian Restaurant,17,5
+Australian Restaurant,18,7
+Australian Restaurant,19,5
+Australian Restaurant,20,8
+Australian Restaurant,21,11
+Australian Restaurant,22,2
+Australian Restaurant,23,3
+Performing Arts Venue,0,11
+Performing Arts Venue,1,7
+Performing Arts Venue,2,3
+Performing Arts Venue,3,3
+Performing Arts Venue,4,4
+Performing Arts Venue,5,5
+Performing Arts Venue,6,1
+Performing Arts Venue,7,1
+Performing Arts Venue,8,13
+Performing Arts Venue,9,30
+Performing Arts Venue,10,22
+Performing Arts Venue,11,23
+Performing Arts Venue,12,27
+Performing Arts Venue,13,33
+Performing Arts Venue,14,23
+Performing Arts Venue,15,21
+Performing Arts Venue,16,17
+Performing Arts Venue,17,45
+Performing Arts Venue,18,51
+Performing Arts Venue,19,104
+Performing Arts Venue,20,54
+Performing Arts Venue,21,34
+Performing Arts Venue,22,13
+Performing Arts Venue,23,16
+Cajun / Creole Restaurant,0,4
+Cajun / Creole Restaurant,1,0
+Cajun / Creole Restaurant,2,0
+Cajun / Creole Restaurant,3,0
+Cajun / Creole Restaurant,4,0
+Cajun / Creole Restaurant,5,0
+Cajun / Creole Restaurant,6,0
+Cajun / Creole Restaurant,7,0
+Cajun / Creole Restaurant,8,0
+Cajun / Creole Restaurant,9,0
+Cajun / Creole Restaurant,10,0
+Cajun / Creole Restaurant,11,4
+Cajun / Creole Restaurant,12,2
+Cajun / Creole Restaurant,13,1
+Cajun / Creole Restaurant,14,3
+Cajun / Creole Restaurant,15,4
+Cajun / Creole Restaurant,16,0
+Cajun / Creole Restaurant,17,3
+Cajun / Creole Restaurant,18,7
+Cajun / Creole Restaurant,19,8
+Cajun / Creole Restaurant,20,2
+Cajun / Creole Restaurant,21,3
+Cajun / Creole Restaurant,22,6
+Cajun / Creole Restaurant,23,2
+Concert Hall,0,9
+Concert Hall,1,3
+Concert Hall,2,0
+Concert Hall,3,1
+Concert Hall,4,0
+Concert Hall,5,0
+Concert Hall,6,0
+Concert Hall,7,2
+Concert Hall,8,2
+Concert Hall,9,4
+Concert Hall,10,7
+Concert Hall,11,7
+Concert Hall,12,4
+Concert Hall,13,4
+Concert Hall,14,7
+Concert Hall,15,7
+Concert Hall,16,5
+Concert Hall,17,7
+Concert Hall,18,15
+Concert Hall,19,56
+Concert Hall,20,63
+Concert Hall,21,29
+Concert Hall,22,18
+Concert Hall,23,9
+Residential Building (Apartment / Condo),0,197
+Residential Building (Apartment / Condo),1,145
+Residential Building (Apartment / Condo),2,88
+Residential Building (Apartment / Condo),3,95
+Residential Building (Apartment / Condo),4,58
+Residential Building (Apartment / Condo),5,62
+Residential Building (Apartment / Condo),6,69
+Residential Building (Apartment / Condo),7,177
+Residential Building (Apartment / Condo),8,211
+Residential Building (Apartment / Condo),9,169
+Residential Building (Apartment / Condo),10,145
+Residential Building (Apartment / Condo),11,141
+Residential Building (Apartment / Condo),12,153
+Residential Building (Apartment / Condo),13,263
+Residential Building (Apartment / Condo),14,154
+Residential Building (Apartment / Condo),15,145
+Residential Building (Apartment / Condo),16,156
+Residential Building (Apartment / Condo),17,247
+Residential Building (Apartment / Condo),18,248
+Residential Building (Apartment / Condo),19,272
+Residential Building (Apartment / Condo),20,253
+Residential Building (Apartment / Condo),21,252
+Residential Building (Apartment / Condo),22,241
+Residential Building (Apartment / Condo),23,244
+Stadium,0,15
+Stadium,1,22
+Stadium,2,10
+Stadium,3,9
+Stadium,4,7
+Stadium,5,6
+Stadium,6,24
+Stadium,7,14
+Stadium,8,22
+Stadium,9,20
+Stadium,10,29
+Stadium,11,35
+Stadium,12,52
+Stadium,13,42
+Stadium,14,44
+Stadium,15,56
+Stadium,16,50
+Stadium,17,62
+Stadium,18,167
+Stadium,19,217
+Stadium,20,94
+Stadium,21,50
+Stadium,22,52
+Stadium,23,21
+Food Truck,0,17
+Food Truck,1,21
+Food Truck,2,16
+Food Truck,3,13
+Food Truck,4,7
+Food Truck,5,6
+Food Truck,6,17
+Food Truck,7,9
+Food Truck,8,35
+Food Truck,9,23
+Food Truck,10,21
+Food Truck,11,47
+Food Truck,12,97
+Food Truck,13,135
+Food Truck,14,59
+Food Truck,15,41
+Food Truck,16,33
+Food Truck,17,32
+Food Truck,18,32
+Food Truck,19,19
+Food Truck,20,27
+Food Truck,21,13
+Food Truck,22,24
+Food Truck,23,25
+Vegetarian / Vegan Restaurant,0,2
+Vegetarian / Vegan Restaurant,1,5
+Vegetarian / Vegan Restaurant,2,4
+Vegetarian / Vegan Restaurant,3,1
+Vegetarian / Vegan Restaurant,4,12
+Vegetarian / Vegan Restaurant,5,14
+Vegetarian / Vegan Restaurant,6,16
+Vegetarian / Vegan Restaurant,7,2
+Vegetarian / Vegan Restaurant,8,7
+Vegetarian / Vegan Restaurant,9,11
+Vegetarian / Vegan Restaurant,10,5
+Vegetarian / Vegan Restaurant,11,12
+Vegetarian / Vegan Restaurant,12,31
+Vegetarian / Vegan Restaurant,13,35
+Vegetarian / Vegan Restaurant,14,17
+Vegetarian / Vegan Restaurant,15,26
+Vegetarian / Vegan Restaurant,16,11
+Vegetarian / Vegan Restaurant,17,17
+Vegetarian / Vegan Restaurant,18,39
+Vegetarian / Vegan Restaurant,19,41
+Vegetarian / Vegan Restaurant,20,22
+Vegetarian / Vegan Restaurant,21,8
+Vegetarian / Vegan Restaurant,22,7
+Vegetarian / Vegan Restaurant,23,5
+Temple,0,1
+Temple,1,2
+Temple,2,6
+Temple,3,4
+Temple,4,6
+Temple,5,4
+Temple,6,0
+Temple,7,4
+Temple,8,4
+Temple,9,1
+Temple,10,2
+Temple,11,1
+Temple,12,3
+Temple,13,1
+Temple,14,1
+Temple,15,3
+Temple,16,3
+Temple,17,2
+Temple,18,2
+Temple,19,0
+Temple,20,0
+Temple,21,3
+Temple,22,2
+Temple,23,6
+Sporting Goods Shop,0,2
+Sporting Goods Shop,1,0
+Sporting Goods Shop,2,0
+Sporting Goods Shop,3,1
+Sporting Goods Shop,4,2
+Sporting Goods Shop,5,12
+Sporting Goods Shop,6,21
+Sporting Goods Shop,7,18
+Sporting Goods Shop,8,9
+Sporting Goods Shop,9,16
+Sporting Goods Shop,10,14
+Sporting Goods Shop,11,15
+Sporting Goods Shop,12,22
+Sporting Goods Shop,13,21
+Sporting Goods Shop,14,36
+Sporting Goods Shop,15,49
+Sporting Goods Shop,16,47
+Sporting Goods Shop,17,26
+Sporting Goods Shop,18,39
+Sporting Goods Shop,19,33
+Sporting Goods Shop,20,34
+Sporting Goods Shop,21,6
+Sporting Goods Shop,22,4
+Sporting Goods Shop,23,0
+Internet Cafe,0,1
+Internet Cafe,1,0
+Internet Cafe,2,0
+Internet Cafe,3,1
+Internet Cafe,4,0
+Internet Cafe,5,0
+Internet Cafe,6,0
+Internet Cafe,7,0
+Internet Cafe,8,0
+Internet Cafe,9,1
+Internet Cafe,10,1
+Internet Cafe,11,0
+Internet Cafe,12,0
+Internet Cafe,13,0
+Internet Cafe,14,0
+Internet Cafe,15,0
+Internet Cafe,16,0
+Internet Cafe,17,0
+Internet Cafe,18,0
+Internet Cafe,19,0
+Internet Cafe,20,1
+Internet Cafe,21,0
+Internet Cafe,22,0
+Internet Cafe,23,1
+Burger Joint,0,39
+Burger Joint,1,15
+Burger Joint,2,11
+Burger Joint,3,7
+Burger Joint,4,6
+Burger Joint,5,19
+Burger Joint,6,21
+Burger Joint,7,9
+Burger Joint,8,26
+Burger Joint,9,9
+Burger Joint,10,17
+Burger Joint,11,49
+Burger Joint,12,149
+Burger Joint,13,156
+Burger Joint,14,117
+Burger Joint,15,110
+Burger Joint,16,77
+Burger Joint,17,114
+Burger Joint,18,151
+Burger Joint,19,173
+Burger Joint,20,163
+Burger Joint,21,112
+Burger Joint,22,64
+Burger Joint,23,40
+Swiss Restaurant,0,0
+Swiss Restaurant,1,0
+Swiss Restaurant,2,0
+Swiss Restaurant,3,1
+Swiss Restaurant,4,0
+Swiss Restaurant,5,0
+Swiss Restaurant,6,0
+Swiss Restaurant,7,0
+Swiss Restaurant,8,0
+Swiss Restaurant,9,0
+Swiss Restaurant,10,0
+Swiss Restaurant,11,1
+Swiss Restaurant,12,1
+Swiss Restaurant,13,0
+Swiss Restaurant,14,3
+Swiss Restaurant,15,0
+Swiss Restaurant,16,1
+Swiss Restaurant,17,0
+Swiss Restaurant,18,2
+Swiss Restaurant,19,0
+Swiss Restaurant,20,1
+Swiss Restaurant,21,2
+Swiss Restaurant,22,0
+Swiss Restaurant,23,0
+Moroccan Restaurant,0,0
+Moroccan Restaurant,1,0
+Moroccan Restaurant,2,0
+Moroccan Restaurant,3,0
+Moroccan Restaurant,4,1
+Moroccan Restaurant,5,0
+Moroccan Restaurant,6,0
+Moroccan Restaurant,7,0
+Moroccan Restaurant,8,0
+Moroccan Restaurant,9,0
+Moroccan Restaurant,10,0
+Moroccan Restaurant,11,2
+Moroccan Restaurant,12,0
+Moroccan Restaurant,13,0
+Moroccan Restaurant,14,0
+Moroccan Restaurant,15,1
+Moroccan Restaurant,16,1
+Moroccan Restaurant,17,0
+Moroccan Restaurant,18,1
+Moroccan Restaurant,19,1
+Moroccan Restaurant,20,4
+Moroccan Restaurant,21,1
+Moroccan Restaurant,22,1
+Moroccan Restaurant,23,0
+Art Gallery,0,28
+Art Gallery,1,11
+Art Gallery,2,12
+Art Gallery,3,2
+Art Gallery,4,7
+Art Gallery,5,0
+Art Gallery,6,8
+Art Gallery,7,5
+Art Gallery,8,6
+Art Gallery,9,10
+Art Gallery,10,14
+Art Gallery,11,8
+Art Gallery,12,26
+Art Gallery,13,39
+Art Gallery,14,36
+Art Gallery,15,43
+Art Gallery,16,27
+Art Gallery,17,34
+Art Gallery,18,50
+Art Gallery,19,52
+Art Gallery,20,27
+Art Gallery,21,11
+Art Gallery,22,18
+Art Gallery,23,12
+Furniture / Home Store,0,2
+Furniture / Home Store,1,0
+Furniture / Home Store,2,0
+Furniture / Home Store,3,0
+Furniture / Home Store,4,0
+Furniture / Home Store,5,0
+Furniture / Home Store,6,2
+Furniture / Home Store,7,2
+Furniture / Home Store,8,5
+Furniture / Home Store,9,17
+Furniture / Home Store,10,33
+Furniture / Home Store,11,44
+Furniture / Home Store,12,48
+Furniture / Home Store,13,60
+Furniture / Home Store,14,69
+Furniture / Home Store,15,72
+Furniture / Home Store,16,50
+Furniture / Home Store,17,43
+Furniture / Home Store,18,52
+Furniture / Home Store,19,32
+Furniture / Home Store,20,21
+Furniture / Home Store,21,7
+Furniture / Home Store,22,4
+Furniture / Home Store,23,2
+Asian Restaurant,0,22
+Asian Restaurant,1,12
+Asian Restaurant,2,7
+Asian Restaurant,3,5
+Asian Restaurant,4,4
+Asian Restaurant,5,3
+Asian Restaurant,6,2
+Asian Restaurant,7,0
+Asian Restaurant,8,1
+Asian Restaurant,9,1
+Asian Restaurant,10,5
+Asian Restaurant,11,16
+Asian Restaurant,12,52
+Asian Restaurant,13,58
+Asian Restaurant,14,33
+Asian Restaurant,15,27
+Asian Restaurant,16,35
+Asian Restaurant,17,33
+Asian Restaurant,18,66
+Asian Restaurant,19,87
+Asian Restaurant,20,67
+Asian Restaurant,21,50
+Asian Restaurant,22,36
+Asian Restaurant,23,22
+Spanish Restaurant,0,5
+Spanish Restaurant,1,3
+Spanish Restaurant,2,2
+Spanish Restaurant,3,1
+Spanish Restaurant,4,3
+Spanish Restaurant,5,0
+Spanish Restaurant,6,2
+Spanish Restaurant,7,16
+Spanish Restaurant,8,9
+Spanish Restaurant,9,5
+Spanish Restaurant,10,8
+Spanish Restaurant,11,2
+Spanish Restaurant,12,23
+Spanish Restaurant,13,11
+Spanish Restaurant,14,10
+Spanish Restaurant,15,17
+Spanish Restaurant,16,9
+Spanish Restaurant,17,21
+Spanish Restaurant,18,15
+Spanish Restaurant,19,42
+Spanish Restaurant,20,22
+Spanish Restaurant,21,23
+Spanish Restaurant,22,10
+Spanish Restaurant,23,13
+Spiritual Center,0,0
+Spiritual Center,1,0
+Spiritual Center,2,1
+Spiritual Center,3,0
+Spiritual Center,4,1
+Spiritual Center,5,1
+Spiritual Center,6,0
+Spiritual Center,7,1
+Spiritual Center,8,3
+Spiritual Center,9,4
+Spiritual Center,10,1
+Spiritual Center,11,2
+Spiritual Center,12,2
+Spiritual Center,13,5
+Spiritual Center,14,3
+Spiritual Center,15,1
+Spiritual Center,16,6
+Spiritual Center,17,5
+Spiritual Center,18,11
+Spiritual Center,19,9
+Spiritual Center,20,6
+Spiritual Center,21,1
+Spiritual Center,22,1
+Spiritual Center,23,0
+Newsstand,0,0
+Newsstand,1,0
+Newsstand,2,0
+Newsstand,3,0
+Newsstand,4,0
+Newsstand,5,0
+Newsstand,6,0
+Newsstand,7,0
+Newsstand,8,1
+Newsstand,9,0
+Newsstand,10,0
+Newsstand,11,0
+Newsstand,12,0
+Newsstand,13,0
+Newsstand,14,2
+Newsstand,15,1
+Newsstand,16,0
+Newsstand,17,1
+Newsstand,18,3
+Newsstand,19,1
+Newsstand,20,1
+Newsstand,21,0
+Newsstand,22,2
+Newsstand,23,0
+Chinese Restaurant,0,20
+Chinese Restaurant,1,19
+Chinese Restaurant,2,9
+Chinese Restaurant,3,10
+Chinese Restaurant,4,9
+Chinese Restaurant,5,28
+Chinese Restaurant,6,50
+Chinese Restaurant,7,33
+Chinese Restaurant,8,40
+Chinese Restaurant,9,23
+Chinese Restaurant,10,31
+Chinese Restaurant,11,48
+Chinese Restaurant,12,164
+Chinese Restaurant,13,124
+Chinese Restaurant,14,88
+Chinese Restaurant,15,71
+Chinese Restaurant,16,52
+Chinese Restaurant,17,72
+Chinese Restaurant,18,140
+Chinese Restaurant,19,141
+Chinese Restaurant,20,124
+Chinese Restaurant,21,111
+Chinese Restaurant,22,58
+Chinese Restaurant,23,33
+Peruvian Restaurant,0,0
+Peruvian Restaurant,1,0
+Peruvian Restaurant,2,0
+Peruvian Restaurant,3,0
+Peruvian Restaurant,4,0
+Peruvian Restaurant,5,0
+Peruvian Restaurant,6,1
+Peruvian Restaurant,7,0
+Peruvian Restaurant,8,0
+Peruvian Restaurant,9,0
+Peruvian Restaurant,10,1
+Peruvian Restaurant,11,0
+Peruvian Restaurant,12,1
+Peruvian Restaurant,13,1
+Peruvian Restaurant,14,2
+Peruvian Restaurant,15,1
+Peruvian Restaurant,16,3
+Peruvian Restaurant,17,0
+Peruvian Restaurant,18,5
+Peruvian Restaurant,19,2
+Peruvian Restaurant,20,1
+Peruvian Restaurant,21,4
+Peruvian Restaurant,22,0
+Peruvian Restaurant,23,1
+Bowling Alley,0,11
+Bowling Alley,1,1
+Bowling Alley,2,2
+Bowling Alley,3,0
+Bowling Alley,4,2
+Bowling Alley,5,3
+Bowling Alley,6,0
+Bowling Alley,7,1
+Bowling Alley,8,5
+Bowling Alley,9,3
+Bowling Alley,10,0
+Bowling Alley,11,2
+Bowling Alley,12,2
+Bowling Alley,13,6
+Bowling Alley,14,4
+Bowling Alley,15,10
+Bowling Alley,16,7
+Bowling Alley,17,10
+Bowling Alley,18,23
+Bowling Alley,19,29
+Bowling Alley,20,30
+Bowling Alley,21,34
+Bowling Alley,22,20
+Bowling Alley,23,15
+Fried Chicken Joint,0,17
+Fried Chicken Joint,1,15
+Fried Chicken Joint,2,7
+Fried Chicken Joint,3,9
+Fried Chicken Joint,4,5
+Fried Chicken Joint,5,3
+Fried Chicken Joint,6,3
+Fried Chicken Joint,7,7
+Fried Chicken Joint,8,1
+Fried Chicken Joint,9,4
+Fried Chicken Joint,10,9
+Fried Chicken Joint,11,11
+Fried Chicken Joint,12,26
+Fried Chicken Joint,13,25
+Fried Chicken Joint,14,25
+Fried Chicken Joint,15,19
+Fried Chicken Joint,16,23
+Fried Chicken Joint,17,13
+Fried Chicken Joint,18,26
+Fried Chicken Joint,19,35
+Fried Chicken Joint,20,41
+Fried Chicken Joint,21,28
+Fried Chicken Joint,22,23
+Fried Chicken Joint,23,18
+Tea Room,0,1
+Tea Room,1,2
+Tea Room,2,0
+Tea Room,3,0
+Tea Room,4,0
+Tea Room,5,0
+Tea Room,6,2
+Tea Room,7,3
+Tea Room,8,5
+Tea Room,9,5
+Tea Room,10,4
+Tea Room,11,9
+Tea Room,12,16
+Tea Room,13,15
+Tea Room,14,30
+Tea Room,15,25
+Tea Room,16,24
+Tea Room,17,25
+Tea Room,18,18
+Tea Room,19,25
+Tea Room,20,26
+Tea Room,21,10
+Tea Room,22,6
+Tea Room,23,3
+Tanning Salon,0,0
+Tanning Salon,1,0
+Tanning Salon,2,0
+Tanning Salon,3,0
+Tanning Salon,4,0
+Tanning Salon,5,0
+Tanning Salon,6,2
+Tanning Salon,7,4
+Tanning Salon,8,5
+Tanning Salon,9,3
+Tanning Salon,10,4
+Tanning Salon,11,1
+Tanning Salon,12,5
+Tanning Salon,13,5
+Tanning Salon,14,7
+Tanning Salon,15,8
+Tanning Salon,16,8
+Tanning Salon,17,9
+Tanning Salon,18,4
+Tanning Salon,19,9
+Tanning Salon,20,5
+Tanning Salon,21,4
+Tanning Salon,22,3
+Tanning Salon,23,3
+Bike Shop,0,3
+Bike Shop,1,13
+Bike Shop,2,8
+Bike Shop,3,1
+Bike Shop,4,1
+Bike Shop,5,2
+Bike Shop,6,0
+Bike Shop,7,2
+Bike Shop,8,5
+Bike Shop,9,3
+Bike Shop,10,1
+Bike Shop,11,6
+Bike Shop,12,4
+Bike Shop,13,12
+Bike Shop,14,10
+Bike Shop,15,10
+Bike Shop,16,12
+Bike Shop,17,22
+Bike Shop,18,9
+Bike Shop,19,12
+Bike Shop,20,14
+Bike Shop,21,2
+Bike Shop,22,5
+Bike Shop,23,12
+Thrift / Vintage Store,0,1
+Thrift / Vintage Store,1,0
+Thrift / Vintage Store,2,0
+Thrift / Vintage Store,3,0
+Thrift / Vintage Store,4,0
+Thrift / Vintage Store,5,0
+Thrift / Vintage Store,6,0
+Thrift / Vintage Store,7,1
+Thrift / Vintage Store,8,1
+Thrift / Vintage Store,9,2
+Thrift / Vintage Store,10,9
+Thrift / Vintage Store,11,4
+Thrift / Vintage Store,12,19
+Thrift / Vintage Store,13,20
+Thrift / Vintage Store,14,21
+Thrift / Vintage Store,15,25
+Thrift / Vintage Store,16,21
+Thrift / Vintage Store,17,19
+Thrift / Vintage Store,18,19
+Thrift / Vintage Store,19,9
+Thrift / Vintage Store,20,7
+Thrift / Vintage Store,21,3
+Thrift / Vintage Store,22,1
+Thrift / Vintage Store,23,2
+Drugstore / Pharmacy,0,51
+Drugstore / Pharmacy,1,22
+Drugstore / Pharmacy,2,20
+Drugstore / Pharmacy,3,15
+Drugstore / Pharmacy,4,10
+Drugstore / Pharmacy,5,14
+Drugstore / Pharmacy,6,33
+Drugstore / Pharmacy,7,46
+Drugstore / Pharmacy,8,131
+Drugstore / Pharmacy,9,100
+Drugstore / Pharmacy,10,139
+Drugstore / Pharmacy,11,139
+Drugstore / Pharmacy,12,141
+Drugstore / Pharmacy,13,178
+Drugstore / Pharmacy,14,186
+Drugstore / Pharmacy,15,183
+Drugstore / Pharmacy,16,143
+Drugstore / Pharmacy,17,184
+Drugstore / Pharmacy,18,210
+Drugstore / Pharmacy,19,160
+Drugstore / Pharmacy,20,140
+Drugstore / Pharmacy,21,82
+Drugstore / Pharmacy,22,95
+Drugstore / Pharmacy,23,66
+Laundry Service,0,7
+Laundry Service,1,10
+Laundry Service,2,3
+Laundry Service,3,1
+Laundry Service,4,3
+Laundry Service,5,7
+Laundry Service,6,12
+Laundry Service,7,44
+Laundry Service,8,44
+Laundry Service,9,41
+Laundry Service,10,49
+Laundry Service,11,51
+Laundry Service,12,50
+Laundry Service,13,45
+Laundry Service,14,46
+Laundry Service,15,43
+Laundry Service,16,35
+Laundry Service,17,63
+Laundry Service,18,48
+Laundry Service,19,35
+Laundry Service,20,30
+Laundry Service,21,19
+Laundry Service,22,18
+Laundry Service,23,17
+Fish & Chips Shop,0,0
+Fish & Chips Shop,1,0
+Fish & Chips Shop,2,0
+Fish & Chips Shop,3,0
+Fish & Chips Shop,4,0
+Fish & Chips Shop,5,0
+Fish & Chips Shop,6,0
+Fish & Chips Shop,7,0
+Fish & Chips Shop,8,0
+Fish & Chips Shop,9,0
+Fish & Chips Shop,10,0
+Fish & Chips Shop,11,0
+Fish & Chips Shop,12,0
+Fish & Chips Shop,13,1
+Fish & Chips Shop,14,0
+Fish & Chips Shop,15,3
+Fish & Chips Shop,16,0
+Fish & Chips Shop,17,1
+Fish & Chips Shop,18,3
+Fish & Chips Shop,19,0
+Fish & Chips Shop,20,2
+Fish & Chips Shop,21,1
+Fish & Chips Shop,22,0
+Fish & Chips Shop,23,0
+Department Store,0,9
+Department Store,1,9
+Department Store,2,5
+Department Store,3,4
+Department Store,4,1
+Department Store,5,4
+Department Store,6,13
+Department Store,7,33
+Department Store,8,49
+Department Store,9,57
+Department Store,10,77
+Department Store,11,99
+Department Store,12,114
+Department Store,13,151
+Department Store,14,164
+Department Store,15,172
+Department Store,16,137
+Department Store,17,199
+Department Store,18,165
+Department Store,19,133
+Department Store,20,121
+Department Store,21,60
+Department Store,22,38
+Department Store,23,12
+Music Venue,0,157
+Music Venue,1,52
+Music Venue,2,30
+Music Venue,3,15
+Music Venue,4,6
+Music Venue,5,30
+Music Venue,6,30
+Music Venue,7,31
+Music Venue,8,18
+Music Venue,9,21
+Music Venue,10,24
+Music Venue,11,23
+Music Venue,12,30
+Music Venue,13,39
+Music Venue,14,22
+Music Venue,15,40
+Music Venue,16,29
+Music Venue,17,38
+Music Venue,18,83
+Music Venue,19,146
+Music Venue,20,171
+Music Venue,21,156
+Music Venue,22,112
+Music Venue,23,121
+Shop & Service,0,0
+Shop & Service,1,1
+Shop & Service,2,0
+Shop & Service,3,0
+Shop & Service,4,0
+Shop & Service,5,0
+Shop & Service,6,0
+Shop & Service,7,1
+Shop & Service,8,3
+Shop & Service,9,3
+Shop & Service,10,0
+Shop & Service,11,3
+Shop & Service,12,5
+Shop & Service,13,3
+Shop & Service,14,2
+Shop & Service,15,1
+Shop & Service,16,7
+Shop & Service,17,1
+Shop & Service,18,1
+Shop & Service,19,4
+Shop & Service,20,2
+Shop & Service,21,0
+Shop & Service,22,0
+Shop & Service,23,1
+Filipino Restaurant,0,0
+Filipino Restaurant,1,0
+Filipino Restaurant,2,0
+Filipino Restaurant,3,0
+Filipino Restaurant,4,0
+Filipino Restaurant,5,0
+Filipino Restaurant,6,0
+Filipino Restaurant,7,2
+Filipino Restaurant,8,1
+Filipino Restaurant,9,0
+Filipino Restaurant,10,0
+Filipino Restaurant,11,2
+Filipino Restaurant,12,3
+Filipino Restaurant,13,2
+Filipino Restaurant,14,1
+Filipino Restaurant,15,1
+Filipino Restaurant,16,3
+Filipino Restaurant,17,2
+Filipino Restaurant,18,5
+Filipino Restaurant,19,3
+Filipino Restaurant,20,8
+Filipino Restaurant,21,4
+Filipino Restaurant,22,2
+Filipino Restaurant,23,1
+College Theater,0,0
+College Theater,1,0
+College Theater,2,0
+College Theater,3,0
+College Theater,4,0
+College Theater,5,0
+College Theater,6,2
+College Theater,7,0
+College Theater,8,1
+College Theater,9,1
+College Theater,10,4
+College Theater,11,3
+College Theater,12,2
+College Theater,13,3
+College Theater,14,3
+College Theater,15,0
+College Theater,16,2
+College Theater,17,2
+College Theater,18,4
+College Theater,19,4
+College Theater,20,5
+College Theater,21,2
+College Theater,22,1
+College Theater,23,0
+Harbor / Marina,0,8
+Harbor / Marina,1,7
+Harbor / Marina,2,6
+Harbor / Marina,3,4
+Harbor / Marina,4,8
+Harbor / Marina,5,2
+Harbor / Marina,6,2
+Harbor / Marina,7,6
+Harbor / Marina,8,20
+Harbor / Marina,9,18
+Harbor / Marina,10,14
+Harbor / Marina,11,17
+Harbor / Marina,12,14
+Harbor / Marina,13,23
+Harbor / Marina,14,13
+Harbor / Marina,15,15
+Harbor / Marina,16,31
+Harbor / Marina,17,28
+Harbor / Marina,18,33
+Harbor / Marina,19,16
+Harbor / Marina,20,16
+Harbor / Marina,21,21
+Harbor / Marina,22,8
+Harbor / Marina,23,12
+Latin American Restaurant,0,8
+Latin American Restaurant,1,12
+Latin American Restaurant,2,11
+Latin American Restaurant,3,2
+Latin American Restaurant,4,6
+Latin American Restaurant,5,5
+Latin American Restaurant,6,1
+Latin American Restaurant,7,3
+Latin American Restaurant,8,4
+Latin American Restaurant,9,7
+Latin American Restaurant,10,8
+Latin American Restaurant,11,13
+Latin American Restaurant,12,28
+Latin American Restaurant,13,40
+Latin American Restaurant,14,31
+Latin American Restaurant,15,13
+Latin American Restaurant,16,29
+Latin American Restaurant,17,20
+Latin American Restaurant,18,29
+Latin American Restaurant,19,26
+Latin American Restaurant,20,32
+Latin American Restaurant,21,21
+Latin American Restaurant,22,15
+Latin American Restaurant,23,8
+Mexican Restaurant,0,36
+Mexican Restaurant,1,20
+Mexican Restaurant,2,15
+Mexican Restaurant,3,12
+Mexican Restaurant,4,10
+Mexican Restaurant,5,10
+Mexican Restaurant,6,1
+Mexican Restaurant,7,4
+Mexican Restaurant,8,2
+Mexican Restaurant,9,11
+Mexican Restaurant,10,14
+Mexican Restaurant,11,48
+Mexican Restaurant,12,191
+Mexican Restaurant,13,225
+Mexican Restaurant,14,146
+Mexican Restaurant,15,106
+Mexican Restaurant,16,90
+Mexican Restaurant,17,136
+Mexican Restaurant,18,188
+Mexican Restaurant,19,235
+Mexican Restaurant,20,240
+Mexican Restaurant,21,169
+Mexican Restaurant,22,81
+Mexican Restaurant,23,53
+Taxi,0,16
+Taxi,1,7
+Taxi,2,6
+Taxi,3,6
+Taxi,4,4
+Taxi,5,4
+Taxi,6,3
+Taxi,7,3
+Taxi,8,5
+Taxi,9,10
+Taxi,10,5
+Taxi,11,1
+Taxi,12,1
+Taxi,13,20
+Taxi,14,7
+Taxi,15,3
+Taxi,16,5
+Taxi,17,4
+Taxi,18,16
+Taxi,19,10
+Taxi,20,17
+Taxi,21,8
+Taxi,22,11
+Taxi,23,13
+Flower Shop,0,0
+Flower Shop,1,0
+Flower Shop,2,1
+Flower Shop,3,0
+Flower Shop,4,0
+Flower Shop,5,0
+Flower Shop,6,1
+Flower Shop,7,0
+Flower Shop,8,7
+Flower Shop,9,2
+Flower Shop,10,3
+Flower Shop,11,2
+Flower Shop,12,1
+Flower Shop,13,5
+Flower Shop,14,6
+Flower Shop,15,7
+Flower Shop,16,4
+Flower Shop,17,8
+Flower Shop,18,1
+Flower Shop,19,1
+Flower Shop,20,4
+Flower Shop,21,1
+Flower Shop,22,1
+Flower Shop,23,1
+Ethiopian Restaurant,0,0
+Ethiopian Restaurant,1,0
+Ethiopian Restaurant,2,0
+Ethiopian Restaurant,3,0
+Ethiopian Restaurant,4,0
+Ethiopian Restaurant,5,0
+Ethiopian Restaurant,6,0
+Ethiopian Restaurant,7,0
+Ethiopian Restaurant,8,0
+Ethiopian Restaurant,9,0
+Ethiopian Restaurant,10,0
+Ethiopian Restaurant,11,0
+Ethiopian Restaurant,12,0
+Ethiopian Restaurant,13,0
+Ethiopian Restaurant,14,3
+Ethiopian Restaurant,15,0
+Ethiopian Restaurant,16,0
+Ethiopian Restaurant,17,0
+Ethiopian Restaurant,18,3
+Ethiopian Restaurant,19,3
+Ethiopian Restaurant,20,4
+Ethiopian Restaurant,21,2
+Ethiopian Restaurant,22,1
+Ethiopian Restaurant,23,2
+Office,0,56
+Office,1,41
+Office,2,23
+Office,3,20
+Office,4,18
+Office,5,111
+Office,6,216
+Office,7,734
+Office,8,1976
+Office,9,2838
+Office,10,1475
+Office,11,751
+Office,12,702
+Office,13,742
+Office,14,601
+Office,15,506
+Office,16,354
+Office,17,429
+Office,18,364
+Office,19,286
+Office,20,170
+Office,21,135
+Office,22,103
+Office,23,89
+Photography Lab,0,0
+Photography Lab,1,0
+Photography Lab,2,0
+Photography Lab,3,0
+Photography Lab,4,0
+Photography Lab,5,0
+Photography Lab,6,0
+Photography Lab,7,0
+Photography Lab,8,0
+Photography Lab,9,0
+Photography Lab,10,0
+Photography Lab,11,0
+Photography Lab,12,0
+Photography Lab,13,0
+Photography Lab,14,0
+Photography Lab,15,0
+Photography Lab,16,1
+Photography Lab,17,1
+Photography Lab,18,0
+Photography Lab,19,0
+Photography Lab,20,0
+Photography Lab,21,0
+Photography Lab,22,0
+Photography Lab,23,0
+Travel & Transport,0,0
+Travel & Transport,1,2
+Travel & Transport,2,1
+Travel & Transport,3,1
+Travel & Transport,4,0
+Travel & Transport,5,1
+Travel & Transport,6,0
+Travel & Transport,7,4
+Travel & Transport,8,2
+Travel & Transport,9,2
+Travel & Transport,10,2
+Travel & Transport,11,3
+Travel & Transport,12,2
+Travel & Transport,13,1
+Travel & Transport,14,2
+Travel & Transport,15,3
+Travel & Transport,16,0
+Travel & Transport,17,3
+Travel & Transport,18,3
+Travel & Transport,19,8
+Travel & Transport,20,1
+Travel & Transport,21,3
+Travel & Transport,22,0
+Travel & Transport,23,0
+Housing Development,0,6
+Housing Development,1,6
+Housing Development,2,3
+Housing Development,3,4
+Housing Development,4,3
+Housing Development,5,8
+Housing Development,6,13
+Housing Development,7,12
+Housing Development,8,20
+Housing Development,9,16
+Housing Development,10,11
+Housing Development,11,6
+Housing Development,12,4
+Housing Development,13,9
+Housing Development,14,12
+Housing Development,15,7
+Housing Development,16,7
+Housing Development,17,24
+Housing Development,18,10
+Housing Development,19,14
+Housing Development,20,21
+Housing Development,21,8
+Housing Development,22,15
+Housing Development,23,11
+Library,0,1
+Library,1,3
+Library,2,5
+Library,3,4
+Library,4,3
+Library,5,0
+Library,6,9
+Library,7,11
+Library,8,88
+Library,9,18
+Library,10,29
+Library,11,25
+Library,12,40
+Library,13,44
+Library,14,30
+Library,15,45
+Library,16,42
+Library,17,25
+Library,18,25
+Library,19,11
+Library,20,11
+Library,21,5
+Library,22,5
+Library,23,7
+Flea Market,0,1
+Flea Market,1,0
+Flea Market,2,0
+Flea Market,3,1
+Flea Market,4,0
+Flea Market,5,0
+Flea Market,6,2
+Flea Market,7,0
+Flea Market,8,0
+Flea Market,9,1
+Flea Market,10,12
+Flea Market,11,19
+Flea Market,12,17
+Flea Market,13,39
+Flea Market,14,40
+Flea Market,15,40
+Flea Market,16,22
+Flea Market,17,15
+Flea Market,18,10
+Flea Market,19,7
+Flea Market,20,9
+Flea Market,21,3
+Flea Market,22,3
+Flea Market,23,2
+German Restaurant,0,7
+German Restaurant,1,2
+German Restaurant,2,9
+German Restaurant,3,6
+German Restaurant,4,3
+German Restaurant,5,0
+German Restaurant,6,3
+German Restaurant,7,4
+German Restaurant,8,0
+German Restaurant,9,2
+German Restaurant,10,5
+German Restaurant,11,10
+German Restaurant,12,8
+German Restaurant,13,9
+German Restaurant,14,4
+German Restaurant,15,8
+German Restaurant,16,3
+German Restaurant,17,6
+German Restaurant,18,11
+German Restaurant,19,13
+German Restaurant,20,31
+German Restaurant,21,17
+German Restaurant,22,13
+German Restaurant,23,10
+Church,0,3
+Church,1,6
+Church,2,4
+Church,3,4
+Church,4,6
+Church,5,21
+Church,6,23
+Church,7,15
+Church,8,78
+Church,9,88
+Church,10,131
+Church,11,149
+Church,12,84
+Church,13,55
+Church,14,32
+Church,15,34
+Church,16,57
+Church,17,69
+Church,18,105
+Church,19,113
+Church,20,48
+Church,21,27
+Church,22,14
+Church,23,6
+Snack Place,0,3
+Snack Place,1,0
+Snack Place,2,0
+Snack Place,3,0
+Snack Place,4,1
+Snack Place,5,0
+Snack Place,6,2
+Snack Place,7,1
+Snack Place,8,40
+Snack Place,9,5
+Snack Place,10,4
+Snack Place,11,2
+Snack Place,12,3
+Snack Place,13,6
+Snack Place,14,10
+Snack Place,15,6
+Snack Place,16,9
+Snack Place,17,4
+Snack Place,18,6
+Snack Place,19,5
+Snack Place,20,5
+Snack Place,21,2
+Snack Place,22,1
+Snack Place,23,0
+Casino,0,1
+Casino,1,0
+Casino,2,3
+Casino,3,0
+Casino,4,0
+Casino,5,1
+Casino,6,37
+Casino,7,2
+Casino,8,0
+Casino,9,9
+Casino,10,4
+Casino,11,9
+Casino,12,31
+Casino,13,5
+Casino,14,0
+Casino,15,4
+Casino,16,2
+Casino,17,0
+Casino,18,1
+Casino,19,0
+Casino,20,3
+Casino,21,3
+Casino,22,5
+Casino,23,3
+Scandinavian Restaurant,0,0
+Scandinavian Restaurant,1,1
+Scandinavian Restaurant,2,1
+Scandinavian Restaurant,3,0
+Scandinavian Restaurant,4,0
+Scandinavian Restaurant,5,0
+Scandinavian Restaurant,6,0
+Scandinavian Restaurant,7,0
+Scandinavian Restaurant,8,0
+Scandinavian Restaurant,9,0
+Scandinavian Restaurant,10,0
+Scandinavian Restaurant,11,0
+Scandinavian Restaurant,12,3
+Scandinavian Restaurant,13,2
+Scandinavian Restaurant,14,2
+Scandinavian Restaurant,15,1
+Scandinavian Restaurant,16,0
+Scandinavian Restaurant,17,2
+Scandinavian Restaurant,18,3
+Scandinavian Restaurant,19,2
+Scandinavian Restaurant,20,2
+Scandinavian Restaurant,21,3
+Scandinavian Restaurant,22,0
+Scandinavian Restaurant,23,0
+Salon / Barbershop,0,5
+Salon / Barbershop,1,15
+Salon / Barbershop,2,9
+Salon / Barbershop,3,4
+Salon / Barbershop,4,2
+Salon / Barbershop,5,3
+Salon / Barbershop,6,3
+Salon / Barbershop,7,18
+Salon / Barbershop,8,46
+Salon / Barbershop,9,82
+Salon / Barbershop,10,108
+Salon / Barbershop,11,95
+Salon / Barbershop,12,100
+Salon / Barbershop,13,112
+Salon / Barbershop,14,110
+Salon / Barbershop,15,139
+Salon / Barbershop,16,118
+Salon / Barbershop,17,111
+Salon / Barbershop,18,152
+Salon / Barbershop,19,97
+Salon / Barbershop,20,53
+Salon / Barbershop,21,39
+Salon / Barbershop,22,16
+Salon / Barbershop,23,39
+Pet Store,0,0
+Pet Store,1,1
+Pet Store,2,1
+Pet Store,3,0
+Pet Store,4,0
+Pet Store,5,1
+Pet Store,6,1
+Pet Store,7,2
+Pet Store,8,6
+Pet Store,9,10
+Pet Store,10,8
+Pet Store,11,26
+Pet Store,12,27
+Pet Store,13,30
+Pet Store,14,25
+Pet Store,15,32
+Pet Store,16,27
+Pet Store,17,28
+Pet Store,18,35
+Pet Store,19,29
+Pet Store,20,7
+Pet Store,21,5
+Pet Store,22,0
+Pet Store,23,1
+Market,0,0
+Market,1,0
+Market,2,0
+Market,3,0
+Market,4,0
+Market,5,0
+Market,6,0
+Market,7,0
+Market,8,0
+Market,9,1
+Market,10,0
+Market,11,2
+Market,12,4
+Market,13,11
+Market,14,51
+Market,15,9
+Market,16,8
+Market,17,8
+Market,18,6
+Market,19,1
+Market,20,5
+Market,21,6
+Market,22,1
+Market,23,0
+South American Restaurant,0,1
+South American Restaurant,1,2
+South American Restaurant,2,0
+South American Restaurant,3,1
+South American Restaurant,4,1
+South American Restaurant,5,1
+South American Restaurant,6,0
+South American Restaurant,7,1
+South American Restaurant,8,1
+South American Restaurant,9,3
+South American Restaurant,10,1
+South American Restaurant,11,1
+South American Restaurant,12,6
+South American Restaurant,13,10
+South American Restaurant,14,3
+South American Restaurant,15,3
+South American Restaurant,16,5
+South American Restaurant,17,3
+South American Restaurant,18,10
+South American Restaurant,19,9
+South American Restaurant,20,18
+South American Restaurant,21,11
+South American Restaurant,22,5
+South American Restaurant,23,3
+City,0,27
+City,1,18
+City,2,7
+City,3,16
+City,4,7
+City,5,3
+City,6,6
+City,7,55
+City,8,53
+City,9,49
+City,10,41
+City,11,47
+City,12,47
+City,13,46
+City,14,53
+City,15,52
+City,16,43
+City,17,38
+City,18,40
+City,19,49
+City,20,42
+City,21,33
+City,22,35
+City,23,25
+Automotive Shop,0,3
+Automotive Shop,1,0
+Automotive Shop,2,1
+Automotive Shop,3,2
+Automotive Shop,4,3
+Automotive Shop,5,2
+Automotive Shop,6,5
+Automotive Shop,7,23
+Automotive Shop,8,56
+Automotive Shop,9,46
+Automotive Shop,10,48
+Automotive Shop,11,43
+Automotive Shop,12,56
+Automotive Shop,13,47
+Automotive Shop,14,49
+Automotive Shop,15,41
+Automotive Shop,16,44
+Automotive Shop,17,29
+Automotive Shop,18,24
+Automotive Shop,19,24
+Automotive Shop,20,11
+Automotive Shop,21,10
+Automotive Shop,22,5
+Automotive Shop,23,7
+Embassy / Consulate,0,1
+Embassy / Consulate,1,0
+Embassy / Consulate,2,0
+Embassy / Consulate,3,1
+Embassy / Consulate,4,0
+Embassy / Consulate,5,0
+Embassy / Consulate,6,0
+Embassy / Consulate,7,0
+Embassy / Consulate,8,3
+Embassy / Consulate,9,3
+Embassy / Consulate,10,3
+Embassy / Consulate,11,1
+Embassy / Consulate,12,3
+Embassy / Consulate,13,2
+Embassy / Consulate,14,3
+Embassy / Consulate,15,3
+Embassy / Consulate,16,1
+Embassy / Consulate,17,1
+Embassy / Consulate,18,5
+Embassy / Consulate,19,1
+Embassy / Consulate,20,3
+Embassy / Consulate,21,0
+Embassy / Consulate,22,2
+Embassy / Consulate,23,1
+College Academic Building,0,42
+College Academic Building,1,25
+College Academic Building,2,32
+College Academic Building,3,30
+College Academic Building,4,7
+College Academic Building,5,8
+College Academic Building,6,13
+College Academic Building,7,146
+College Academic Building,8,386
+College Academic Building,9,340
+College Academic Building,10,287
+College Academic Building,11,225
+College Academic Building,12,245
+College Academic Building,13,271
+College Academic Building,14,265
+College Academic Building,15,194
+College Academic Building,16,151
+College Academic Building,17,192
+College Academic Building,18,219
+College Academic Building,19,139
+College Academic Building,20,106
+College Academic Building,21,52
+College Academic Building,22,58
+College Academic Building,23,46
+Falafel Restaurant,0,1
+Falafel Restaurant,1,4
+Falafel Restaurant,2,7
+Falafel Restaurant,3,10
+Falafel Restaurant,4,4
+Falafel Restaurant,5,0
+Falafel Restaurant,6,0
+Falafel Restaurant,7,0
+Falafel Restaurant,8,1
+Falafel Restaurant,9,2
+Falafel Restaurant,10,5
+Falafel Restaurant,11,1
+Falafel Restaurant,12,14
+Falafel Restaurant,13,17
+Falafel Restaurant,14,3
+Falafel Restaurant,15,4
+Falafel Restaurant,16,4
+Falafel Restaurant,17,5
+Falafel Restaurant,18,4
+Falafel Restaurant,19,13
+Falafel Restaurant,20,5
+Falafel Restaurant,21,5
+Falafel Restaurant,22,3
+Falafel Restaurant,23,5
+Cemetery,0,2
+Cemetery,1,2
+Cemetery,2,6
+Cemetery,3,10
+Cemetery,4,5
+Cemetery,5,0
+Cemetery,6,4
+Cemetery,7,2
+Cemetery,8,9
+Cemetery,9,7
+Cemetery,10,9
+Cemetery,11,8
+Cemetery,12,5
+Cemetery,13,7
+Cemetery,14,8
+Cemetery,15,5
+Cemetery,16,16
+Cemetery,17,6
+Cemetery,18,9
+Cemetery,19,24
+Cemetery,20,14
+Cemetery,21,7
+Cemetery,22,10
+Cemetery,23,4
+Factory,0,1
+Factory,1,2
+Factory,2,0
+Factory,3,0
+Factory,4,0
+Factory,5,7
+Factory,6,10
+Factory,7,23
+Factory,8,5
+Factory,9,5
+Factory,10,10
+Factory,11,6
+Factory,12,3
+Factory,13,8
+Factory,14,1
+Factory,15,4
+Factory,16,3
+Factory,17,6
+Factory,18,5
+Factory,19,3
+Factory,20,2
+Factory,21,2
+Factory,22,1
+Factory,23,5
+Breakfast Spot,0,4
+Breakfast Spot,1,5
+Breakfast Spot,2,3
+Breakfast Spot,3,5
+Breakfast Spot,4,32
+Breakfast Spot,5,4
+Breakfast Spot,6,23
+Breakfast Spot,7,32
+Breakfast Spot,8,49
+Breakfast Spot,9,39
+Breakfast Spot,10,45
+Breakfast Spot,11,33
+Breakfast Spot,12,32
+Breakfast Spot,13,39
+Breakfast Spot,14,16
+Breakfast Spot,15,23
+Breakfast Spot,16,9
+Breakfast Spot,17,14
+Breakfast Spot,18,17
+Breakfast Spot,19,27
+Breakfast Spot,20,20
+Breakfast Spot,21,14
+Breakfast Spot,22,8
+Breakfast Spot,23,11
+Thai Restaurant,0,3
+Thai Restaurant,1,6
+Thai Restaurant,2,1
+Thai Restaurant,3,0
+Thai Restaurant,4,0
+Thai Restaurant,5,0
+Thai Restaurant,6,1
+Thai Restaurant,7,1
+Thai Restaurant,8,0
+Thai Restaurant,9,0
+Thai Restaurant,10,1
+Thai Restaurant,11,8
+Thai Restaurant,12,47
+Thai Restaurant,13,69
+Thai Restaurant,14,37
+Thai Restaurant,15,25
+Thai Restaurant,16,20
+Thai Restaurant,17,36
+Thai Restaurant,18,60
+Thai Restaurant,19,89
+Thai Restaurant,20,93
+Thai Restaurant,21,56
+Thai Restaurant,22,26
+Thai Restaurant,23,14
+Dessert Shop,0,14
+Dessert Shop,1,1
+Dessert Shop,2,0
+Dessert Shop,3,2
+Dessert Shop,4,0
+Dessert Shop,5,1
+Dessert Shop,6,1
+Dessert Shop,7,2
+Dessert Shop,8,6
+Dessert Shop,9,7
+Dessert Shop,10,11
+Dessert Shop,11,15
+Dessert Shop,12,23
+Dessert Shop,13,30
+Dessert Shop,14,28
+Dessert Shop,15,31
+Dessert Shop,16,43
+Dessert Shop,17,37
+Dessert Shop,18,41
+Dessert Shop,19,52
+Dessert Shop,20,30
+Dessert Shop,21,44
+Dessert Shop,22,47
+Dessert Shop,23,24
+Beach,0,12
+Beach,1,8
+Beach,2,5
+Beach,3,5
+Beach,4,9
+Beach,5,6
+Beach,6,20
+Beach,7,21
+Beach,8,14
+Beach,9,26
+Beach,10,57
+Beach,11,19
+Beach,12,41
+Beach,13,72
+Beach,14,41
+Beach,15,35
+Beach,16,32
+Beach,17,28
+Beach,18,28
+Beach,19,24
+Beach,20,17
+Beach,21,16
+Beach,22,23
+Beach,23,16
+Brewery,0,1
+Brewery,1,1
+Brewery,2,0
+Brewery,3,0
+Brewery,4,0
+Brewery,5,0
+Brewery,6,0
+Brewery,7,1
+Brewery,8,3
+Brewery,9,2
+Brewery,10,0
+Brewery,11,3
+Brewery,12,2
+Brewery,13,8
+Brewery,14,11
+Brewery,15,8
+Brewery,16,5
+Brewery,17,17
+Brewery,18,14
+Brewery,19,14
+Brewery,20,13
+Brewery,21,7
+Brewery,22,3
+Brewery,23,1
+Other Nightlife,0,16
+Other Nightlife,1,7
+Other Nightlife,2,8
+Other Nightlife,3,4
+Other Nightlife,4,4
+Other Nightlife,5,2
+Other Nightlife,6,2
+Other Nightlife,7,1
+Other Nightlife,8,1
+Other Nightlife,9,6
+Other Nightlife,10,15
+Other Nightlife,11,15
+Other Nightlife,12,18
+Other Nightlife,13,17
+Other Nightlife,14,15
+Other Nightlife,15,11
+Other Nightlife,16,16
+Other Nightlife,17,13
+Other Nightlife,18,11
+Other Nightlife,19,27
+Other Nightlife,20,13
+Other Nightlife,21,14
+Other Nightlife,22,15
+Other Nightlife,23,16
+Sandwich Place,0,5
+Sandwich Place,1,6
+Sandwich Place,2,5
+Sandwich Place,3,2
+Sandwich Place,4,4
+Sandwich Place,5,66
+Sandwich Place,6,6
+Sandwich Place,7,40
+Sandwich Place,8,85
+Sandwich Place,9,81
+Sandwich Place,10,96
+Sandwich Place,11,87
+Sandwich Place,12,225
+Sandwich Place,13,287
+Sandwich Place,14,176
+Sandwich Place,15,138
+Sandwich Place,16,72
+Sandwich Place,17,62
+Sandwich Place,18,72
+Sandwich Place,19,68
+Sandwich Place,20,73
+Sandwich Place,21,36
+Sandwich Place,22,18
+Sandwich Place,23,9
+Portuguese Restaurant,0,0
+Portuguese Restaurant,1,0
+Portuguese Restaurant,2,0
+Portuguese Restaurant,3,0
+Portuguese Restaurant,4,0
+Portuguese Restaurant,5,0
+Portuguese Restaurant,6,0
+Portuguese Restaurant,7,0
+Portuguese Restaurant,8,0
+Portuguese Restaurant,9,0
+Portuguese Restaurant,10,0
+Portuguese Restaurant,11,1
+Portuguese Restaurant,12,1
+Portuguese Restaurant,13,1
+Portuguese Restaurant,14,0
+Portuguese Restaurant,15,0
+Portuguese Restaurant,16,1
+Portuguese Restaurant,17,0
+Portuguese Restaurant,18,1
+Portuguese Restaurant,19,2
+Portuguese Restaurant,20,2
+Portuguese Restaurant,21,0
+Portuguese Restaurant,22,0
+Portuguese Restaurant,23,0
+Medical Center,0,59
+Medical Center,1,39
+Medical Center,2,34
+Medical Center,3,54
+Medical Center,4,47
+Medical Center,5,32
+Medical Center,6,58
+Medical Center,7,143
+Medical Center,8,408
+Medical Center,9,470
+Medical Center,10,244
+Medical Center,11,191
+Medical Center,12,204
+Medical Center,13,231
+Medical Center,14,209
+Medical Center,15,212
+Medical Center,16,147
+Medical Center,17,141
+Medical Center,18,119
+Medical Center,19,77
+Medical Center,20,63
+Medical Center,21,44
+Medical Center,22,58
+Medical Center,23,82
+Comedy Club,0,3
+Comedy Club,1,2
+Comedy Club,2,1
+Comedy Club,3,0
+Comedy Club,4,2
+Comedy Club,5,0
+Comedy Club,6,1
+Comedy Club,7,0
+Comedy Club,8,1
+Comedy Club,9,1
+Comedy Club,10,9
+Comedy Club,11,2
+Comedy Club,12,1
+Comedy Club,13,2
+Comedy Club,14,7
+Comedy Club,15,6
+Comedy Club,16,9
+Comedy Club,17,8
+Comedy Club,18,18
+Comedy Club,19,25
+Comedy Club,20,17
+Comedy Club,21,18
+Comedy Club,22,12
+Comedy Club,23,5
+Arts & Crafts Store,0,3
+Arts & Crafts Store,1,0
+Arts & Crafts Store,2,1
+Arts & Crafts Store,3,3
+Arts & Crafts Store,4,4
+Arts & Crafts Store,5,1
+Arts & Crafts Store,6,0
+Arts & Crafts Store,7,0
+Arts & Crafts Store,8,18
+Arts & Crafts Store,9,16
+Arts & Crafts Store,10,9
+Arts & Crafts Store,11,15
+Arts & Crafts Store,12,18
+Arts & Crafts Store,13,18
+Arts & Crafts Store,14,38
+Arts & Crafts Store,15,20
+Arts & Crafts Store,16,16
+Arts & Crafts Store,17,13
+Arts & Crafts Store,18,21
+Arts & Crafts Store,19,14
+Arts & Crafts Store,20,11
+Arts & Crafts Store,21,5
+Arts & Crafts Store,22,6
+Arts & Crafts Store,23,6
+Food,0,1
+Food,1,2
+Food,2,2
+Food,3,3
+Food,4,0
+Food,5,1
+Food,6,6
+Food,7,3
+Food,8,3
+Food,9,4
+Food,10,3
+Food,11,22
+Food,12,7
+Food,13,13
+Food,14,7
+Food,15,8
+Food,16,12
+Food,17,19
+Food,18,14
+Food,19,13
+Food,20,10
+Food,21,6
+Food,22,9
+Food,23,4
+Bus Station,0,145
+Bus Station,1,90
+Bus Station,2,38
+Bus Station,3,29
+Bus Station,4,56
+Bus Station,5,125
+Bus Station,6,243
+Bus Station,7,432
+Bus Station,8,362
+Bus Station,9,213
+Bus Station,10,131
+Bus Station,11,148
+Bus Station,12,139
+Bus Station,13,144
+Bus Station,14,189
+Bus Station,15,191
+Bus Station,16,207
+Bus Station,17,283
+Bus Station,18,310
+Bus Station,19,242
+Bus Station,20,300
+Bus Station,21,142
+Bus Station,22,153
+Bus Station,23,162
+Fast Food Restaurant,0,34
+Fast Food Restaurant,1,45
+Fast Food Restaurant,2,54
+Fast Food Restaurant,3,38
+Fast Food Restaurant,4,28
+Fast Food Restaurant,5,12
+Fast Food Restaurant,6,23
+Fast Food Restaurant,7,33
+Fast Food Restaurant,8,92
+Fast Food Restaurant,9,62
+Fast Food Restaurant,10,55
+Fast Food Restaurant,11,57
+Fast Food Restaurant,12,98
+Fast Food Restaurant,13,121
+Fast Food Restaurant,14,131
+Fast Food Restaurant,15,101
+Fast Food Restaurant,16,80
+Fast Food Restaurant,17,80
+Fast Food Restaurant,18,95
+Fast Food Restaurant,19,114
+Fast Food Restaurant,20,74
+Fast Food Restaurant,21,62
+Fast Food Restaurant,22,63
+Fast Food Restaurant,23,48
+Design Studio,0,1
+Design Studio,1,0
+Design Studio,2,1
+Design Studio,3,2
+Design Studio,4,0
+Design Studio,5,2
+Design Studio,6,2
+Design Studio,7,0
+Design Studio,8,5
+Design Studio,9,16
+Design Studio,10,10
+Design Studio,11,10
+Design Studio,12,6
+Design Studio,13,11
+Design Studio,14,11
+Design Studio,15,8
+Design Studio,16,7
+Design Studio,17,6
+Design Studio,18,13
+Design Studio,19,8
+Design Studio,20,3
+Design Studio,21,2
+Design Studio,22,4
+Design Studio,23,3
+Paper / Office Supplies Store,0,1
+Paper / Office Supplies Store,1,0
+Paper / Office Supplies Store,2,0
+Paper / Office Supplies Store,3,1
+Paper / Office Supplies Store,4,0
+Paper / Office Supplies Store,5,0
+Paper / Office Supplies Store,6,0
+Paper / Office Supplies Store,7,0
+Paper / Office Supplies Store,8,4
+Paper / Office Supplies Store,9,8
+Paper / Office Supplies Store,10,12
+Paper / Office Supplies Store,11,19
+Paper / Office Supplies Store,12,14
+Paper / Office Supplies Store,13,58
+Paper / Office Supplies Store,14,32
+Paper / Office Supplies Store,15,18
+Paper / Office Supplies Store,16,19
+Paper / Office Supplies Store,17,19
+Paper / Office Supplies Store,18,23
+Paper / Office Supplies Store,19,15
+Paper / Office Supplies Store,20,3
+Paper / Office Supplies Store,21,3
+Paper / Office Supplies Store,22,5
+Paper / Office Supplies Store,23,4
+Dumpling Restaurant,0,0
+Dumpling Restaurant,1,0
+Dumpling Restaurant,2,0
+Dumpling Restaurant,3,0
+Dumpling Restaurant,4,0
+Dumpling Restaurant,5,0
+Dumpling Restaurant,6,0
+Dumpling Restaurant,7,0
+Dumpling Restaurant,8,0
+Dumpling Restaurant,9,0
+Dumpling Restaurant,10,0
+Dumpling Restaurant,11,1
+Dumpling Restaurant,12,3
+Dumpling Restaurant,13,4
+Dumpling Restaurant,14,4
+Dumpling Restaurant,15,0
+Dumpling Restaurant,16,3
+Dumpling Restaurant,17,6
+Dumpling Restaurant,18,3
+Dumpling Restaurant,19,10
+Dumpling Restaurant,20,7
+Dumpling Restaurant,21,7
+Dumpling Restaurant,22,0
+Dumpling Restaurant,23,0
+Gluten-free Restaurant,0,0
+Gluten-free Restaurant,1,0
+Gluten-free Restaurant,2,0
+Gluten-free Restaurant,3,0
+Gluten-free Restaurant,4,0
+Gluten-free Restaurant,5,0
+Gluten-free Restaurant,6,0
+Gluten-free Restaurant,7,0
+Gluten-free Restaurant,8,0
+Gluten-free Restaurant,9,0
+Gluten-free Restaurant,10,0
+Gluten-free Restaurant,11,0
+Gluten-free Restaurant,12,0
+Gluten-free Restaurant,13,0
+Gluten-free Restaurant,14,1
+Gluten-free Restaurant,15,1
+Gluten-free Restaurant,16,0
+Gluten-free Restaurant,17,2
+Gluten-free Restaurant,18,0
+Gluten-free Restaurant,19,1
+Gluten-free Restaurant,20,0
+Gluten-free Restaurant,21,0
+Gluten-free Restaurant,22,0
+Gluten-free Restaurant,23,0
+Mobile Phone Shop,0,0
+Mobile Phone Shop,1,0
+Mobile Phone Shop,2,0
+Mobile Phone Shop,3,0
+Mobile Phone Shop,4,0
+Mobile Phone Shop,5,0
+Mobile Phone Shop,6,0
+Mobile Phone Shop,7,0
+Mobile Phone Shop,8,8
+Mobile Phone Shop,9,3
+Mobile Phone Shop,10,4
+Mobile Phone Shop,11,13
+Mobile Phone Shop,12,11
+Mobile Phone Shop,13,12
+Mobile Phone Shop,14,5
+Mobile Phone Shop,15,11
+Mobile Phone Shop,16,9
+Mobile Phone Shop,17,6
+Mobile Phone Shop,18,3
+Mobile Phone Shop,19,2
+Mobile Phone Shop,20,0
+Mobile Phone Shop,21,0
+Mobile Phone Shop,22,0
+Mobile Phone Shop,23,0
+Travel Lounge,0,1
+Travel Lounge,1,1
+Travel Lounge,2,0
+Travel Lounge,3,1
+Travel Lounge,4,1
+Travel Lounge,5,0
+Travel Lounge,6,0
+Travel Lounge,7,2
+Travel Lounge,8,0
+Travel Lounge,9,0
+Travel Lounge,10,1
+Travel Lounge,11,1
+Travel Lounge,12,0
+Travel Lounge,13,3
+Travel Lounge,14,4
+Travel Lounge,15,4
+Travel Lounge,16,0
+Travel Lounge,17,2
+Travel Lounge,18,2
+Travel Lounge,19,3
+Travel Lounge,20,2
+Travel Lounge,21,1
+Travel Lounge,22,5
+Travel Lounge,23,4
+Sculpture Garden,0,4
+Sculpture Garden,1,6
+Sculpture Garden,2,2
+Sculpture Garden,3,1
+Sculpture Garden,4,0
+Sculpture Garden,5,1
+Sculpture Garden,6,1
+Sculpture Garden,7,3
+Sculpture Garden,8,4
+Sculpture Garden,9,6
+Sculpture Garden,10,15
+Sculpture Garden,11,22
+Sculpture Garden,12,7
+Sculpture Garden,13,11
+Sculpture Garden,14,12
+Sculpture Garden,15,7
+Sculpture Garden,16,5
+Sculpture Garden,17,14
+Sculpture Garden,18,17
+Sculpture Garden,19,7
+Sculpture Garden,20,5
+Sculpture Garden,21,4
+Sculpture Garden,22,3
+Sculpture Garden,23,3
+Dim Sum Restaurant,0,0
+Dim Sum Restaurant,1,0
+Dim Sum Restaurant,2,0
+Dim Sum Restaurant,3,0
+Dim Sum Restaurant,4,0
+Dim Sum Restaurant,5,0
+Dim Sum Restaurant,6,0
+Dim Sum Restaurant,7,0
+Dim Sum Restaurant,8,1
+Dim Sum Restaurant,9,0
+Dim Sum Restaurant,10,3
+Dim Sum Restaurant,11,12
+Dim Sum Restaurant,12,8
+Dim Sum Restaurant,13,9
+Dim Sum Restaurant,14,10
+Dim Sum Restaurant,15,0
+Dim Sum Restaurant,16,0
+Dim Sum Restaurant,17,1
+Dim Sum Restaurant,18,2
+Dim Sum Restaurant,19,4
+Dim Sum Restaurant,20,2
+Dim Sum Restaurant,21,1
+Dim Sum Restaurant,22,0
+Dim Sum Restaurant,23,1
+Deli / Bodega,0,120
+Deli / Bodega,1,106
+Deli / Bodega,2,90
+Deli / Bodega,3,73
+Deli / Bodega,4,49
+Deli / Bodega,5,152
+Deli / Bodega,6,158
+Deli / Bodega,7,271
+Deli / Bodega,8,350
+Deli / Bodega,9,348
+Deli / Bodega,10,246
+Deli / Bodega,11,174
+Deli / Bodega,12,312
+Deli / Bodega,13,290
+Deli / Bodega,14,225
+Deli / Bodega,15,173
+Deli / Bodega,16,136
+Deli / Bodega,17,144
+Deli / Bodega,18,157
+Deli / Bodega,19,167
+Deli / Bodega,20,157
+Deli / Bodega,21,122
+Deli / Bodega,22,87
+Deli / Bodega,23,107
+Bank,0,29
+Bank,1,14
+Bank,2,16
+Bank,3,12
+Bank,4,10
+Bank,5,18
+Bank,6,44
+Bank,7,70
+Bank,8,124
+Bank,9,146
+Bank,10,134
+Bank,11,136
+Bank,12,147
+Bank,13,324
+Bank,14,210
+Bank,15,145
+Bank,16,165
+Bank,17,125
+Bank,18,105
+Bank,19,96
+Bank,20,45
+Bank,21,44
+Bank,22,40
+Bank,23,34
+Other Great Outdoors,0,132
+Other Great Outdoors,1,100
+Other Great Outdoors,2,97
+Other Great Outdoors,3,47
+Other Great Outdoors,4,23
+Other Great Outdoors,5,71
+Other Great Outdoors,6,153
+Other Great Outdoors,7,265
+Other Great Outdoors,8,270
+Other Great Outdoors,9,173
+Other Great Outdoors,10,182
+Other Great Outdoors,11,185
+Other Great Outdoors,12,196
+Other Great Outdoors,13,220
+Other Great Outdoors,14,200
+Other Great Outdoors,15,190
+Other Great Outdoors,16,193
+Other Great Outdoors,17,244
+Other Great Outdoors,18,249
+Other Great Outdoors,19,259
+Other Great Outdoors,20,250
+Other Great Outdoors,21,163
+Other Great Outdoors,22,116
+Other Great Outdoors,23,156
+Beer Garden,0,25
+Beer Garden,1,9
+Beer Garden,2,2
+Beer Garden,3,2
+Beer Garden,4,1
+Beer Garden,5,0
+Beer Garden,6,1
+Beer Garden,7,0
+Beer Garden,8,1
+Beer Garden,9,6
+Beer Garden,10,4
+Beer Garden,11,11
+Beer Garden,12,10
+Beer Garden,13,20
+Beer Garden,14,22
+Beer Garden,15,28
+Beer Garden,16,43
+Beer Garden,17,33
+Beer Garden,18,61
+Beer Garden,19,59
+Beer Garden,20,60
+Beer Garden,21,57
+Beer Garden,22,51
+Beer Garden,23,43
+Gas Station / Garage,0,29
+Gas Station / Garage,1,18
+Gas Station / Garage,2,15
+Gas Station / Garage,3,6
+Gas Station / Garage,4,12
+Gas Station / Garage,5,60
+Gas Station / Garage,6,54
+Gas Station / Garage,7,69
+Gas Station / Garage,8,81
+Gas Station / Garage,9,73
+Gas Station / Garage,10,67
+Gas Station / Garage,11,73
+Gas Station / Garage,12,52
+Gas Station / Garage,13,82
+Gas Station / Garage,14,53
+Gas Station / Garage,15,67
+Gas Station / Garage,16,60
+Gas Station / Garage,17,85
+Gas Station / Garage,18,63
+Gas Station / Garage,19,87
+Gas Station / Garage,20,65
+Gas Station / Garage,21,58
+Gas Station / Garage,22,49
+Gas Station / Garage,23,43
+Middle School,0,0
+Middle School,1,0
+Middle School,2,0
+Middle School,3,0
+Middle School,4,0
+Middle School,5,0
+Middle School,6,0
+Middle School,7,19
+Middle School,8,4
+Middle School,9,1
+Middle School,10,11
+Middle School,11,1
+Middle School,12,2
+Middle School,13,1
+Middle School,14,2
+Middle School,15,3
+Middle School,16,0
+Middle School,17,3
+Middle School,18,1
+Middle School,19,7
+Middle School,20,1
+Middle School,21,0
+Middle School,22,0
+Middle School,23,0
+Community College,0,0
+Community College,1,0
+Community College,2,0
+Community College,3,1
+Community College,4,0
+Community College,5,0
+Community College,6,0
+Community College,7,17
+Community College,8,39
+Community College,9,38
+Community College,10,16
+Community College,11,23
+Community College,12,15
+Community College,13,18
+Community College,14,11
+Community College,15,11
+Community College,16,14
+Community College,17,23
+Community College,18,20
+Community College,19,9
+Community College,20,10
+Community College,21,4
+Community College,22,2
+Community College,23,1
+Soup Place,0,0
+Soup Place,1,0
+Soup Place,2,0
+Soup Place,3,0
+Soup Place,4,0
+Soup Place,5,2
+Soup Place,6,0
+Soup Place,7,0
+Soup Place,8,0
+Soup Place,9,0
+Soup Place,10,3
+Soup Place,11,10
+Soup Place,12,51
+Soup Place,13,46
+Soup Place,14,23
+Soup Place,15,7
+Soup Place,16,4
+Soup Place,17,2
+Soup Place,18,12
+Soup Place,19,1
+Soup Place,20,1
+Soup Place,21,0
+Soup Place,22,0
+Soup Place,23,0
+Vietnamese Restaurant,0,2
+Vietnamese Restaurant,1,2
+Vietnamese Restaurant,2,0
+Vietnamese Restaurant,3,0
+Vietnamese Restaurant,4,0
+Vietnamese Restaurant,5,0
+Vietnamese Restaurant,6,0
+Vietnamese Restaurant,7,2
+Vietnamese Restaurant,8,0
+Vietnamese Restaurant,9,0
+Vietnamese Restaurant,10,1
+Vietnamese Restaurant,11,2
+Vietnamese Restaurant,12,26
+Vietnamese Restaurant,13,29
+Vietnamese Restaurant,14,13
+Vietnamese Restaurant,15,8
+Vietnamese Restaurant,16,3
+Vietnamese Restaurant,17,11
+Vietnamese Restaurant,18,11
+Vietnamese Restaurant,19,23
+Vietnamese Restaurant,20,26
+Vietnamese Restaurant,21,13
+Vietnamese Restaurant,22,5
+Vietnamese Restaurant,23,3
+Athletic & Sport,0,11
+Athletic & Sport,1,8
+Athletic & Sport,2,10
+Athletic & Sport,3,2
+Athletic & Sport,4,3
+Athletic & Sport,5,11
+Athletic & Sport,6,23
+Athletic & Sport,7,48
+Athletic & Sport,8,26
+Athletic & Sport,9,44
+Athletic & Sport,10,35
+Athletic & Sport,11,24
+Athletic & Sport,12,22
+Athletic & Sport,13,36
+Athletic & Sport,14,42
+Athletic & Sport,15,43
+Athletic & Sport,16,24
+Athletic & Sport,17,48
+Athletic & Sport,18,74
+Athletic & Sport,19,57
+Athletic & Sport,20,46
+Athletic & Sport,21,30
+Athletic & Sport,22,25
+Athletic & Sport,23,11
+Jewelry Store,0,1
+Jewelry Store,1,0
+Jewelry Store,2,0
+Jewelry Store,3,1
+Jewelry Store,4,0
+Jewelry Store,5,0
+Jewelry Store,6,0
+Jewelry Store,7,1
+Jewelry Store,8,3
+Jewelry Store,9,5
+Jewelry Store,10,13
+Jewelry Store,11,10
+Jewelry Store,12,6
+Jewelry Store,13,11
+Jewelry Store,14,10
+Jewelry Store,15,11
+Jewelry Store,16,13
+Jewelry Store,17,6
+Jewelry Store,18,15
+Jewelry Store,19,9
+Jewelry Store,20,2
+Jewelry Store,21,2
+Jewelry Store,22,0
+Jewelry Store,23,2
+Record Shop,0,5
+Record Shop,1,1
+Record Shop,2,0
+Record Shop,3,0
+Record Shop,4,2
+Record Shop,5,1
+Record Shop,6,13
+Record Shop,7,7
+Record Shop,8,17
+Record Shop,9,11
+Record Shop,10,4
+Record Shop,11,5
+Record Shop,12,8
+Record Shop,13,3
+Record Shop,14,6
+Record Shop,15,2
+Record Shop,16,3
+Record Shop,17,6
+Record Shop,18,4
+Record Shop,19,4
+Record Shop,20,5
+Record Shop,21,2
+Record Shop,22,3
+Record Shop,23,0
+Airport,0,54
+Airport,1,19
+Airport,2,14
+Airport,3,15
+Airport,4,67
+Airport,5,189
+Airport,6,197
+Airport,7,202
+Airport,8,171
+Airport,9,136
+Airport,10,129
+Airport,11,195
+Airport,12,87
+Airport,13,121
+Airport,14,135
+Airport,15,143
+Airport,16,164
+Airport,17,125
+Airport,18,132
+Airport,19,127
+Airport,20,127
+Airport,21,110
+Airport,22,91
+Airport,23,102
+Pool Hall,0,16
+Pool Hall,1,8
+Pool Hall,2,4
+Pool Hall,3,0
+Pool Hall,4,2
+Pool Hall,5,3
+Pool Hall,6,1
+Pool Hall,7,2
+Pool Hall,8,0
+Pool Hall,9,1
+Pool Hall,10,1
+Pool Hall,11,1
+Pool Hall,12,1
+Pool Hall,13,1
+Pool Hall,14,1
+Pool Hall,15,2
+Pool Hall,16,2
+Pool Hall,17,2
+Pool Hall,18,4
+Pool Hall,19,5
+Pool Hall,20,11
+Pool Hall,21,11
+Pool Hall,22,14
+Pool Hall,23,7
+Winery,0,0
+Winery,1,0
+Winery,2,0
+Winery,3,0
+Winery,4,0
+Winery,5,0
+Winery,6,0
+Winery,7,0
+Winery,8,0
+Winery,9,0
+Winery,10,1
+Winery,11,1
+Winery,12,2
+Winery,13,2
+Winery,14,1
+Winery,15,3
+Winery,16,0
+Winery,17,4
+Winery,18,4
+Winery,19,3
+Winery,20,4
+Winery,21,4
+Winery,22,2
+Winery,23,0
+Molecular Gastronomy Restaurant,0,2
+Molecular Gastronomy Restaurant,1,5
+Molecular Gastronomy Restaurant,2,4
+Molecular Gastronomy Restaurant,3,1
+Molecular Gastronomy Restaurant,4,0
+Molecular Gastronomy Restaurant,5,1
+Molecular Gastronomy Restaurant,6,1
+Molecular Gastronomy Restaurant,7,0
+Molecular Gastronomy Restaurant,8,0
+Molecular Gastronomy Restaurant,9,2
+Molecular Gastronomy Restaurant,10,2
+Molecular Gastronomy Restaurant,11,5
+Molecular Gastronomy Restaurant,12,1
+Molecular Gastronomy Restaurant,13,1
+Molecular Gastronomy Restaurant,14,1
+Molecular Gastronomy Restaurant,15,0
+Molecular Gastronomy Restaurant,16,0
+Molecular Gastronomy Restaurant,17,2
+Molecular Gastronomy Restaurant,18,2
+Molecular Gastronomy Restaurant,19,5
+Molecular Gastronomy Restaurant,20,4
+Molecular Gastronomy Restaurant,21,2
+Molecular Gastronomy Restaurant,22,5
+Molecular Gastronomy Restaurant,23,12
+Garden,0,8
+Garden,1,8
+Garden,2,8
+Garden,3,4
+Garden,4,3
+Garden,5,15
+Garden,6,12
+Garden,7,7
+Garden,8,46
+Garden,9,12
+Garden,10,23
+Garden,11,16
+Garden,12,13
+Garden,13,15
+Garden,14,16
+Garden,15,18
+Garden,16,13
+Garden,17,13
+Garden,18,13
+Garden,19,4
+Garden,20,5
+Garden,21,4
+Garden,22,6
+Garden,23,6
+Bridge,0,41
+Bridge,1,18
+Bridge,2,17
+Bridge,3,11
+Bridge,4,29
+Bridge,5,31
+Bridge,6,49
+Bridge,7,63
+Bridge,8,118
+Bridge,9,90
+Bridge,10,74
+Bridge,11,64
+Bridge,12,65
+Bridge,13,68
+Bridge,14,71
+Bridge,15,97
+Bridge,16,74
+Bridge,17,112
+Bridge,18,107
+Bridge,19,97
+Bridge,20,72
+Bridge,21,70
+Bridge,22,46
+Bridge,23,43
+Historic Site,0,5
+Historic Site,1,4
+Historic Site,2,2
+Historic Site,3,4
+Historic Site,4,3
+Historic Site,5,1
+Historic Site,6,6
+Historic Site,7,32
+Historic Site,8,13
+Historic Site,9,10
+Historic Site,10,8
+Historic Site,11,10
+Historic Site,12,12
+Historic Site,13,10
+Historic Site,14,11
+Historic Site,15,12
+Historic Site,16,12
+Historic Site,17,19
+Historic Site,18,20
+Historic Site,19,9
+Historic Site,20,10
+Historic Site,21,8
+Historic Site,22,8
+Historic Site,23,6
+Law School,0,0
+Law School,1,0
+Law School,2,0
+Law School,3,0
+Law School,4,0
+Law School,5,0
+Law School,6,0
+Law School,7,3
+Law School,8,1
+Law School,9,6
+Law School,10,3
+Law School,11,4
+Law School,12,1
+Law School,13,8
+Law School,14,10
+Law School,15,34
+Law School,16,3
+Law School,17,2
+Law School,18,1
+Law School,19,0
+Law School,20,1
+Law School,21,0
+Law School,22,0
+Law School,23,0
+Storage Facility,0,0
+Storage Facility,1,0
+Storage Facility,2,0
+Storage Facility,3,0
+Storage Facility,4,0
+Storage Facility,5,0
+Storage Facility,6,0
+Storage Facility,7,1
+Storage Facility,8,3
+Storage Facility,9,0
+Storage Facility,10,2
+Storage Facility,11,0
+Storage Facility,12,2
+Storage Facility,13,1
+Storage Facility,14,2
+Storage Facility,15,0
+Storage Facility,16,2
+Storage Facility,17,0
+Storage Facility,18,0
+Storage Facility,19,0
+Storage Facility,20,1
+Storage Facility,21,1
+Storage Facility,22,0
+Storage Facility,23,0
+American Restaurant,0,88
+American Restaurant,1,55
+American Restaurant,2,27
+American Restaurant,3,20
+American Restaurant,4,13
+American Restaurant,5,14
+American Restaurant,6,13
+American Restaurant,7,85
+American Restaurant,8,58
+American Restaurant,9,81
+American Restaurant,10,105
+American Restaurant,11,140
+American Restaurant,12,233
+American Restaurant,13,292
+American Restaurant,14,221
+American Restaurant,15,146
+American Restaurant,16,150
+American Restaurant,17,202
+American Restaurant,18,299
+American Restaurant,19,497
+American Restaurant,20,353
+American Restaurant,21,276
+American Restaurant,22,191
+American Restaurant,23,142
+Mac & Cheese Joint,0,0
+Mac & Cheese Joint,1,0
+Mac & Cheese Joint,2,0
+Mac & Cheese Joint,3,0
+Mac & Cheese Joint,4,0
+Mac & Cheese Joint,5,0
+Mac & Cheese Joint,6,0
+Mac & Cheese Joint,7,0
+Mac & Cheese Joint,8,0
+Mac & Cheese Joint,9,0
+Mac & Cheese Joint,10,0
+Mac & Cheese Joint,11,0
+Mac & Cheese Joint,12,1
+Mac & Cheese Joint,13,4
+Mac & Cheese Joint,14,3
+Mac & Cheese Joint,15,0
+Mac & Cheese Joint,16,2
+Mac & Cheese Joint,17,6
+Mac & Cheese Joint,18,4
+Mac & Cheese Joint,19,4
+Mac & Cheese Joint,20,10
+Mac & Cheese Joint,21,0
+Mac & Cheese Joint,22,2
+Mac & Cheese Joint,23,0
+Rental Car Location,0,0
+Rental Car Location,1,0
+Rental Car Location,2,0
+Rental Car Location,3,0
+Rental Car Location,4,0
+Rental Car Location,5,2
+Rental Car Location,6,8
+Rental Car Location,7,2
+Rental Car Location,8,3
+Rental Car Location,9,3
+Rental Car Location,10,3
+Rental Car Location,11,7
+Rental Car Location,12,1
+Rental Car Location,13,1
+Rental Car Location,14,5
+Rental Car Location,15,3
+Rental Car Location,16,3
+Rental Car Location,17,5
+Rental Car Location,18,1
+Rental Car Location,19,1
+Rental Car Location,20,0
+Rental Car Location,21,0
+Rental Car Location,22,0
+Rental Car Location,23,0
+Distillery,0,0
+Distillery,1,0
+Distillery,2,1
+Distillery,3,0
+Distillery,4,0
+Distillery,5,0
+Distillery,6,0
+Distillery,7,0
+Distillery,8,0
+Distillery,9,0
+Distillery,10,0
+Distillery,11,0
+Distillery,12,0
+Distillery,13,1
+Distillery,14,3
+Distillery,15,0
+Distillery,16,0
+Distillery,17,0
+Distillery,18,2
+Distillery,19,0
+Distillery,20,0
+Distillery,21,1
+Distillery,22,0
+Distillery,23,0
+Taco Place,0,5
+Taco Place,1,4
+Taco Place,2,1
+Taco Place,3,0
+Taco Place,4,2
+Taco Place,5,0
+Taco Place,6,1
+Taco Place,7,1
+Taco Place,8,0
+Taco Place,9,1
+Taco Place,10,1
+Taco Place,11,7
+Taco Place,12,23
+Taco Place,13,23
+Taco Place,14,21
+Taco Place,15,16
+Taco Place,16,17
+Taco Place,17,15
+Taco Place,18,20
+Taco Place,19,27
+Taco Place,20,18
+Taco Place,21,13
+Taco Place,22,12
+Taco Place,23,13
+Video Store,0,1
+Video Store,1,1
+Video Store,2,0
+Video Store,3,0
+Video Store,4,0
+Video Store,5,0
+Video Store,6,0
+Video Store,7,1
+Video Store,8,0
+Video Store,9,0
+Video Store,10,1
+Video Store,11,0
+Video Store,12,1
+Video Store,13,3
+Video Store,14,3
+Video Store,15,4
+Video Store,16,3
+Video Store,17,5
+Video Store,18,4
+Video Store,19,2
+Video Store,20,5
+Video Store,21,2
+Video Store,22,6
+Video Store,23,0
+BBQ Joint,0,14
+BBQ Joint,1,12
+BBQ Joint,2,3
+BBQ Joint,3,3
+BBQ Joint,4,1
+BBQ Joint,5,3
+BBQ Joint,6,2
+BBQ Joint,7,4
+BBQ Joint,8,3
+BBQ Joint,9,2
+BBQ Joint,10,9
+BBQ Joint,11,15
+BBQ Joint,12,26
+BBQ Joint,13,49
+BBQ Joint,14,35
+BBQ Joint,15,35
+BBQ Joint,16,36
+BBQ Joint,17,37
+BBQ Joint,18,69
+BBQ Joint,19,105
+BBQ Joint,20,75
+BBQ Joint,21,67
+BBQ Joint,22,47
+BBQ Joint,23,32
+Post Office,0,4
+Post Office,1,1
+Post Office,2,2
+Post Office,3,10
+Post Office,4,47
+Post Office,5,8
+Post Office,6,6
+Post Office,7,13
+Post Office,8,37
+Post Office,9,78
+Post Office,10,40
+Post Office,11,55
+Post Office,12,80
+Post Office,13,87
+Post Office,14,59
+Post Office,15,71
+Post Office,16,47
+Post Office,17,35
+Post Office,18,24
+Post Office,19,16
+Post Office,20,10
+Post Office,21,6
+Post Office,22,3
+Post Office,23,2
+Pet Service,0,0
+Pet Service,1,0
+Pet Service,2,0
+Pet Service,3,0
+Pet Service,4,0
+Pet Service,5,0
+Pet Service,6,0
+Pet Service,7,0
+Pet Service,8,0
+Pet Service,9,1
+Pet Service,10,0
+Pet Service,11,0
+Pet Service,12,0
+Pet Service,13,0
+Pet Service,14,1
+Pet Service,15,0
+Pet Service,16,0
+Pet Service,17,0
+Pet Service,18,0
+Pet Service,19,0
+Pet Service,20,1
+Pet Service,21,0
+Pet Service,22,0
+Pet Service,23,0
+Car Dealership,0,1
+Car Dealership,1,1
+Car Dealership,2,1
+Car Dealership,3,0
+Car Dealership,4,0
+Car Dealership,5,0
+Car Dealership,6,0
+Car Dealership,7,1
+Car Dealership,8,0
+Car Dealership,9,1
+Car Dealership,10,4
+Car Dealership,11,1
+Car Dealership,12,3
+Car Dealership,13,3
+Car Dealership,14,3
+Car Dealership,15,3
+Car Dealership,16,0
+Car Dealership,17,2
+Car Dealership,18,2
+Car Dealership,19,3
+Car Dealership,20,0
+Car Dealership,21,1
+Car Dealership,22,0
+Car Dealership,23,1
+History Museum,0,0
+History Museum,1,1
+History Museum,2,3
+History Museum,3,3
+History Museum,4,1
+History Museum,5,0
+History Museum,6,2
+History Museum,7,1
+History Museum,8,5
+History Museum,9,4
+History Museum,10,4
+History Museum,11,5
+History Museum,12,9
+History Museum,13,7
+History Museum,14,6
+History Museum,15,7
+History Museum,16,6
+History Museum,17,3
+History Museum,18,7
+History Museum,19,4
+History Museum,20,2
+History Museum,21,1
+History Museum,22,0
+History Museum,23,2
+Sorority House,0,0
+Sorority House,1,0
+Sorority House,2,0
+Sorority House,3,1
+Sorority House,4,0
+Sorority House,5,0
+Sorority House,6,0
+Sorority House,7,0
+Sorority House,8,0
+Sorority House,9,0
+Sorority House,10,0
+Sorority House,11,0
+Sorority House,12,0
+Sorority House,13,0
+Sorority House,14,0
+Sorority House,15,0
+Sorority House,16,0
+Sorority House,17,1
+Sorority House,18,1
+Sorority House,19,0
+Sorority House,20,0
+Sorority House,21,0
+Sorority House,22,1
+Sorority House,23,0
+Malaysian Restaurant,0,1
+Malaysian Restaurant,1,0
+Malaysian Restaurant,2,0
+Malaysian Restaurant,3,0
+Malaysian Restaurant,4,0
+Malaysian Restaurant,5,0
+Malaysian Restaurant,6,0
+Malaysian Restaurant,7,0
+Malaysian Restaurant,8,0
+Malaysian Restaurant,9,0
+Malaysian Restaurant,10,0
+Malaysian Restaurant,11,0
+Malaysian Restaurant,12,4
+Malaysian Restaurant,13,5
+Malaysian Restaurant,14,1
+Malaysian Restaurant,15,0
+Malaysian Restaurant,16,1
+Malaysian Restaurant,17,2
+Malaysian Restaurant,18,7
+Malaysian Restaurant,19,7
+Malaysian Restaurant,20,6
+Malaysian Restaurant,21,5
+Malaysian Restaurant,22,3
+Malaysian Restaurant,23,1
+Military Base,0,0
+Military Base,1,1
+Military Base,2,1
+Military Base,3,1
+Military Base,4,1
+Military Base,5,1
+Military Base,6,3
+Military Base,7,3
+Military Base,8,0
+Military Base,9,1
+Military Base,10,1
+Military Base,11,2
+Military Base,12,0
+Military Base,13,0
+Military Base,14,0
+Military Base,15,0
+Military Base,16,0
+Military Base,17,1
+Military Base,18,1
+Military Base,19,1
+Military Base,20,3
+Military Base,21,0
+Military Base,22,0
+Military Base,23,2

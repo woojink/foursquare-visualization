@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Visualizing New York City Foursquare Data</title>
+
+    <link href="styles/bootstrap.min.css" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet">
+    <link href="styles/histogram.css" rel="stylesheet">
+
+    <script src="scripts/d3.min.js"></script>
+    <script src="scripts/jquery-2.1.4.min.js"></script>
+    <script src="scripts/histogram.js"></script>
+    <script src="scripts/small_multiples.js"></script>
+  </head>
+  <body>
+    <div class="jumbotron">
+      <div class="container">
+        <h1>Visualizing New York City Foursquare Data</h1>
+        <p id="bs-overrides" class="lead">Explore the behaviours of New Yorkers through Foursquare check-ins</p>
+        <p id="bs-overrides" class="credits">Woojin Kim, Arushi Arora, Azam Alfayez &middot; December 2, 2015</p>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer cursus, erat ut egestas posuere, eros urna iaculis mauris, sed porttitor diam magna suscipit augue. Suspendisse ac libero vel lacus lacinia volutpat. Sed varius augue nibh, eget rutrum elit rutrum nec. Vestibulum sit amet consectetur justo. Suspendisse blandit facilisis venenatis. Donec eu egestas magna. Fusce ac turpis quis felis dictum mattis nec at lorem. Aenean et blandit nunc, sed aliquet mi. Nam auctor erat egestas, accumsan risus ut, blandit eros. Praesent nec imperdiet lacus. Donec consequat pretium nisi. Ut tincidunt maximus massa. Ut nisl neque, euismod id facilisis ac, blandit in turpis. Vestibulum sit amet accumsan urna, ut blandit leo. Donec in felis aliquet, varius dolor et, suscipit massa.</p>
+        </div>
+      </div>
+
+      <!-- Check-in Map -->
+      <div class="row top20">
+        <div class="col-xs-12">
+          <div class="embed-responsive checkin-map" style="position: relative; overflow: hidden; padding-bottom: 42%;">
+            <iframe class="embed-responsive-item" src="map.html"></iframe>
+          </div>
+        </div>
+      </div>
+
+      <div class="row section">
+        <div class="col-xs-12">
+          <h3>How do check-ins vary throughout the day?</h3>
+          <p>Donec et justo scelerisque, feugiat nisl quis, pharetra tellus. Nullam fermentum nisi eget porttitor sollicitudin. Ut semper ut urna non dapibus. Sed at condimentum ipsum, nec aliquet nisi. Donec et tellus sapien. Aenean non mi in velit semper mattis sed a odio. Nulla tempus nulla et libero feugiat, sed porta sem accumsan. Vestibulum pharetra dignissim orci. Duis faucibus, mauris id faucibus gravida, quam ante ullamcorper lectus, vitae pharetra urna nunc vitae mauris. Phasellus placerat risus vitae iaculis consequat. Suspendisse interdum enim vitae nisi porta accumsan eget nec sapien. Quisque a enim sit amet purus tincidunt lobortis. Etiam blandit posuere augue vel maximus.</p>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="row">
+          <div class="col-xs-12">
+            <div id="histogram"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-sm-12 text-center button-labels">
+          <div class="btn-group btn-group-xs" role="group" aria-label="...">
+            <button type="button" class="btn btn-default btn-month center-block active" value="1">January</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="2">February</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="3">March</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="4">April</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="5">May</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="6">June</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="7">July</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="8">August</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="9">September</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="10">October</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="11">November</button>
+            <button type="button" class="btn btn-default btn-month center-block active" value="12">December</button>
+          </div>
+        </div>
+      </div>
+      <div class="row top10">
+        <div class="col-md-12 text-center button-labels">
+          <div class="btn-group btn-group-xs" role="group" aria-label="...">
+            <button type="button" class="btn btn-default btn-day center-block day-weekend active" value="6">Sunday</button>
+            <button type="button" class="btn btn-default btn-day center-block day-weekday active" value="0">Monday</button>
+            <button type="button" class="btn btn-default btn-day center-block day-weekday active" value="1">Tuesday</button>
+            <button type="button" class="btn btn-default btn-day center-block day-weekday active" value="2">Wednesday</button>
+            <button type="button" class="btn btn-default btn-day center-block day-weekday active" value="3">Thursday</button>
+            <button type="button" class="btn btn-default btn-day center-block day-weekday active" value="4">Friday</button>
+            <button type="button" class="btn btn-default btn-day center-block day-weekend active" value="5">Saturday</button>
+          </div>
+
+          <div class="btn-group btn-group-xs btn-group-specials" role="group" aria-label="...">
+            <button type="button" class="btn btn-default center-block weekend-select">Weekend</button>
+            <button type="button" class="btn btn-default center-block weekday-select">Weekday</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="row section">
+        <div class="col-xs-12">
+          <h3>When do people...?</h3>
+          <p>Vestibulum finibus nisl at nisi tincidunt malesuada. Praesent lacus tortor, consequat et tincidunt id, accumsan sed urna. Etiam gravida nisl quis tellus pharetra, sit amet fermentum ligula tincidunt. In suscipit mauris id leo dignissim, sit amet semper augue rutrum. Duis lectus velit, varius ultricies pretium vel, gravida id felis. Nulla ac mauris vel nunc tempor convallis nec at nisi. Vestibulum et hendrerit justo. Sed accumsan sem ac risus convallis posuere. Nulla auctor orci a mi cursus finibus. Mauris erat dolor, viverra nec neque a, bibendum consectetur massa. Nullam laoreet dignissim enim, nec tempus tellus. Quisque consequat, nibh ac pellentesque sagittis, nulla ipsum pulvinar felis, id lacinia turpis elit interdum risus. Nunc ullamcorper ut tellus ac sodales. Sed lacinia maximus risus id sagittis. Nam sed dolor lobortis, aliquam velit vel, laoreet nisl. Aenean sit amet pellentesque arcu.</p>
+        </div>
+      </div>
+
+      <div class="row text-center">
+        <div class="col-md-4 sm-label"><div id="category-sm1"></div>Bars</div>
+        <div class="col-md-4 sm-label"><div id="category-sm2"></div>Coffee Shops</div>
+        <div class="col-md-4 sm-label"><div id="category-sm3"></div>Gym &amp; Fitness Centres</div>
+      </div>
+      <div class="row text-center">
+        <div class="col-md-4 sm-label"><div id="category-sm4"></div>Clothing Stores</div>
+        <div class="col-md-4 sm-label"><div id="category-sm5"></div>Subway</div>
+        <div class="col-md-4 sm-label"><div id="category-sm6"></div>College Buildings</div>
+      </div>
+
+      <div class="row section">
+        <div class="col-xs-12">
+          <h3>Summary</h3>
+          <p>Nulla quis dui sed massa tempus hendrerit. Donec consectetur nunc nisi, aliquet gravida nisl congue mattis. Aliquam nunc nisi, ullamcorper ut dapibus vel, posuere vitae enim. Curabitur eu nulla eu nibh vehicula finibus ac blandit elit. Mauris rhoncus euismod erat, vel feugiat nisi varius vitae. Duis aliquet interdum iaculis. Praesent felis felis, maximus et eleifend ut, pharetra quis tortor. Suspendisse eget ante a mauris scelerisque elementum. Aenean a velit odio.</p>
+        </div>
+      </div>
+
+      <div class="row section final-section">
+        <div class="col-xs-12">
+          <h3>Credits and Source</h3>
+          <p>This project was created by Woojin Kim, Arushi Arora, and Azam Alfayez for the <a href="https://github.com/jsoma/storytelling-2015" title="Storytelling with Data Github repository">Storytelling with Data</a> course at Columbia University.</p>
+
+          <p>We would like to thank <a href="http://jonathansoma.com/" title="Jonathan Soma">Jonathan Soma</a> for the amazing tutorials and, most of all, a fantastic course. This project makes use of <a href="http://d3js.org/" title="D3">D3</a>, <a href="https://cartodb.com/" title="CartoDB">CartoDB</a>, <a href="http://getbootstrap.com/">Bootstrap</a>, and <a href="https://jquery.com/" title="jQuery">jQuery</a>. Foursquare check-in dataset courtesy of <a href="https://sites.google.com/site/yangdingqi/home/foursquare-dataset" title="Dingqi Yang, Daqing Zhang, Vincent W. Zheng, Zhiyong Yu. Modeling User Activity Preference by Leveraging User Spatial Temporal Characteristics in LBSNs. IEEE Trans. on Systems, Man, and Cybernetics: Systems, (TSMC), 45(1), 129-142, 2015.">Dingqi Yang</a> (<a href="http://www-public.tem-tsp.eu/~zhang_da/pub/TSMC_YANG_2014.pdf">PDF</a>)</p>
+        </div>
+      </div>
+
+    </div>
+  </body>
+  <script src="scripts/bootstrap.min.js"></script>
+</html>

@@ -1,0 +1,23 @@
+/* Misc */
+.label {
+  font-size: 80%;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.axis text {
+  font-size: 80%;
+}
+
+.axis path, line {
+  fill: none;
+  stroke: black;
+  shape-rendering: crispEdges;
+}
+
+.float-label {
+  font-size: 70%;
+  fill: #7F7F7F;
+}

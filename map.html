@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Foursquare Check-in Map</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+    <link href="styles/cartodb.css" rel="stylesheet">
+
+    <style>
+      html, body {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+    <script>
+      function main() {
+        cartodb.createVis('map', 'https://woojink.cartodb.com/api/v2/viz/2fca1f2e-99ec-11e5-a39c-0ecfd53eb7d3/viz.json', {
+            shareable: false,
+            search: false,
+            tiles_loader: false,
+        })
+        // .done(function(vis, layers) {
+        //   // layer 0 is the base layer, layer 1 is cartodb layer
+        //   // setInteraction is disabled by default
+        //   layers[1].setInteraction(true);
+        //   layers[1].on('featureOver', function(e, latlng, pos, data) {
+        //     cartodb.log.log(e, latlng, pos, data);
+        //   });
+        //   // you can get the native map to work with it
+        //   var map = vis.getNativeMap();
+        //   // now, perform any operations you need
+        //   // map.setZoom(3);
+        //   // map.panTo([50.5, 30.5]);
+        // })
+        .error(function(err) {
+          console.log(err);
+        });
+      }
+      window.onload = main;
+    </script>
+  </body>
+</html>
