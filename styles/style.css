@@ -6,6 +6,11 @@ h1, h2, h3, h4 {
   font-weight: 600;
   font-family: 'Helvetica Neue', sans-serif;
 }
+.axis-label {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  fill: #888;
+}
 .button-labels {
   font-family: 'Helvetica Neue', sans-serif;
 }
@@ -30,9 +35,19 @@ h1, h2, h3, h4 {
 .sm-label {
   font-family: 'Helvetica Neue', sans-serif;
   font-size: 10px;
+  color: #888;
 }
 .final-section {
   margin-bottom: 75px;
+}
+div.tooltip {
+  position: absolute;
+  visibility: hidden;
+  font-size: 75%;
+  color: #333333;
+  background-color: #e6e6e6;
+  opacity: .95;
+  padding: 5px;
 }
 
 /* Histogram */

@@ -1,3 +1,9 @@
+d3.selection.prototype.moveToFront = function() {
+  return this.each(function(){
+    this.parentNode.appendChild(this);
+  });
+};
+
 d3.csv("data/checkins_category.csv", function(error, data) {
   var checkins = d3.nest()
     .key(function(d){ return d.Category; })
@@ -21,7 +27,7 @@ d3.csv("data/checkins_category.csv", function(error, data) {
   var margin = {
     'top': 0,
     'right': 0,
-    'bottom': 10,
+    'bottom': 2,
     'left': 2
   };
 
@@ -82,7 +88,7 @@ d3.csv("data/checkins_category.csv", function(error, data) {
       y_scale = d3.scale.linear().domain([0, y_max]).range([hist_height, 0]);
 
   // Axes
-  var x_axis = d3.svg.axis().scale(x_scale).orient('bottom').tickFormat('')
+  var x_axis = d3.svg.axis().scale(x_scale).orient('top').tickFormat('').innerTickSize(2),
                 // .tickValues([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23])
                 // .tickFormat(function(d) { return d+":00";}),
       y_axis = d3.svg.axis().scale(y_scale).orient('left').tickFormat('').tickSize(0);
@@ -133,40 +139,40 @@ d3.csv("data/checkins_category.csv", function(error, data) {
     .style('fill', 'none')
     .style('stroke', 'red')
     .style('opacity', .6)
-    .style('stroke-width', 2);
+    .style('stroke-width', 2).moveToFront();
   hist2.append('g').append('path')
     .datum(get_bin_height('Coffee Shop'))
     .attr('d', line)
     .style('fill', 'none')
     .style('stroke', 'purple')
     .style('opacity', .6)
-    .style('stroke-width', 2);
+    .style('stroke-width', 2).moveToFront();
   hist3.append('g').append('path')
     .datum(get_bin_height('Gym / Fitness Center'))
     .attr('d', line)
     .style('fill', 'none')
     .style('stroke', 'orange')
     .style('opacity', .6)
-    .style('stroke-width', 2);
+    .style('stroke-width', 2).moveToFront();
   hist4.append('g').append('path')
     .datum(get_bin_height('Clothing Store'))
     .attr('d', line)
     .style('fill', 'none')
     .style('stroke', '#9bbb59')
     .style('opacity', .6)
-    .style('stroke-width', 2);
+    .style('stroke-width', 2).moveToFront();
   hist5.append('g').append('path')
     .datum(get_bin_height('Subway'))
     .attr('d', line)
     .style('fill', 'none')
     .style('stroke', '#808080')
     .style('opacity', .6)
-    .style('stroke-width', 2);
+    .style('stroke-width', 2).moveToFront();
   hist6.append('g').append('path')
     .datum(get_bin_height('College Academic Building'))
     .attr('d', line)
     .style('fill', 'none')
     .style('stroke', '#00b0f0')
     .style('opacity', .6)
-    .style('stroke-width', 2);
+    .style('stroke-width', 2).moveToFront();
 })

@@ -19,6 +19,7 @@
     <script src="scripts/jquery-2.1.4.min.js"></script>
     <script src="scripts/histogram.js"></script>
     <script src="scripts/small_multiples.js"></script>
+    <script src="scripts/day_comparison.js"></script>
   </head>
   <body>
     <div class="jumbotron">
@@ -93,6 +94,26 @@
           <div class="btn-group btn-group-xs btn-group-specials" role="group" aria-label="...">
             <button type="button" class="btn btn-default center-block weekend-select">Weekend</button>
             <button type="button" class="btn btn-default center-block weekday-select">Weekday</button>
+          </div>
+
+          <div class="btn-group btn-group-xs btn-group-specials" role="group" aria-label="...">
+            <button type="button" class="btn btn-default center-block select-all">Select All</button>
+            <button type="button" class="btn btn-default center-block deselect-all">Deselect All</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="row section">
+        <div class="col-xs-12">
+          <h3>More comparisons</h3>
+          <div class="row">
+            <div class="col-md-6 text-center">
+              <div id="day-comparison"></div>
+              <div id="dc-tooltip" class="tooltip"></div>
+            </div>
+            <div class="col-md-6">
+              <p>Vestibulum finibus nisl at nisi tincidunt malesuada. Praesent lacus tortor, consequat et tincidunt id, accumsan sed urna. Etiam gravida nisl quis tellus pharetra, sit amet fermentum ligula tincidunt. In suscipit mauris id leo dignissim, sit amet semper augue rutrum. Duis lectus velit, varius ultricies pretium vel, gravida id felis. Nulla ac mauris vel nunc tempor convallis nec at nisi. Vestibulum et hendrerit justo. Sed accumsan sem ac risus convallis posuere. Nulla auctor orci a mi cursus finibus. Mauris erat dolor, viverra nec neque a, bibendum consectetur massa. Nullam laoreet dignissim enim, nec tempus tellus. Quisque consequat, nibh ac pellentesque sagittis, nulla ipsum pulvinar felis, id lacinia turpis elit interdum risus.</p>
+            </div>
           </div>
         </div>
       </div>

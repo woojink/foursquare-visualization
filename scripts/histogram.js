@@ -201,5 +201,43 @@ d3.csv("data/checkins_hourly.csv", function(error, data) {
       })
       update(months, days);
     })
+
+    // Select all / reset
+    $('.select-all').click(function() {
+      months = [1,2,3,4,5,6,7,8,9,10,11,12];
+      days = [0,1,2,3,4,5,6];
+      $('.btn-month').each(function() {
+        if ($(this).hasClass('inactive')) {
+          $(this).removeClass('inactive');
+          $(this).addClass('active');
+        }
+      })
+      $('.btn-day').each(function() {
+        if ($(this).hasClass('inactive')) {
+          $(this).removeClass('inactive');
+          $(this).addClass('active');
+        }
+      })
+      update(months, days);
+    })
+
+    // Deselect all
+    $('.deselect-all').click(function() {
+      months = [];
+      days = [];
+      $('.btn-month').each(function() {
+        if ($(this).hasClass('active')) {
+          $(this).removeClass('active');
+          $(this).addClass('inactive');
+        }
+      })
+      $('.btn-day').each(function() {
+        if ($(this).hasClass('active')) {
+          $(this).removeClass('active');
+          $(this).addClass('inactive');
+        }
+      })
+      update(months, days);
+    })
   })
 })
