@@ -48,7 +48,7 @@ d3.csv("data/checkins_day.csv", function(error, data) {
     .attr("preserveAspectRatio", "xMidYMid meet");
 
   // Ordinal colour scale
-      var color_scale = d3.scale.category10();
+  var color_scale = d3.scale.category10();
 
   // Append graph portion
   var hist = svg.append("g")
@@ -70,17 +70,17 @@ d3.csv("data/checkins_day.csv", function(error, data) {
     .attr('class', 'axis').call(y_axis);
 
   // y-axis label
-  label_offset_x = 20
+  label_offset_x = 15
   var y_text = svg.append('text')
     .attr('x', label_offset_x)
-    .attr('y', svg_height/2-10)
+    .attr('y', svg_height/2-15)
     .attr('text-anchor', 'middle')
     .attr('id', 'yaxis_label')
     .attr('class', 'axis-label')
-    .attr('transform','rotate(-90 ' + label_offset_x + ' ' + (svg_height/2-5) + ')')
+    .attr('transform','rotate(-90 ' + label_offset_x + ' ' + (svg_height/2-15) + ')')
     .text('Check-ins');
   var x_text = svg.append('text')
-    .attr('x', svg_width/2)
+    .attr('x', svg_width/2+15)
     .attr('y', svg_height-5)
     .attr('text-anchor', 'middle')
     .attr('id', 'xaxis_label')

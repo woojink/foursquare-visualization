@@ -24,7 +24,7 @@ d3.csv("data/checkins_hourly.csv", function(error, data) {
   }
 
   // Set svg dimensions and append
-  var svg_width=1200, svg_height=500;
+  var svg_width=1200, svg_height=425;
   var svg = d3.select("#histogram")
     .append('svg')
     .attr("viewBox", "0 0 " + svg_width + " " + svg_height)
@@ -33,9 +33,9 @@ d3.csv("data/checkins_hourly.csv", function(error, data) {
 
   // Set margins for the histogram portion
   var margin = {
-    'top': 50,
+    'top': 20,
     'right': 50,
-    'bottom': 50,
+    'bottom': 35,
     'left': 50
   };
 

@@ -14,6 +14,11 @@ h1, h2, h3, h4 {
 .button-labels {
   font-family: 'Helvetica Neue', sans-serif;
 }
+.caption {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 80%;
+  margin-top: 5px;
+}
 .container h1 {
   font-size: 45px;
 }
@@ -30,7 +35,7 @@ h1, h2, h3, h4 {
   font-size: 18px;
 }
 .section {
-  margin-top: 30px;
+  margin-top: 25px;
 }
 .sm-label {
   font-family: 'Helvetica Neue', sans-serif;
@@ -60,6 +65,12 @@ div.tooltip {
 }
 .btn-month {
   width: 90px;
+}
+
+/* Category chart */
+.boro-label {
+  font-family: 'Helvetica Neue', sans-serif;
+  font-size: 13px;
 }
 
 /* Top margins */
