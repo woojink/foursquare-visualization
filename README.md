@@ -1,7 +1,7 @@
 # Foursquare Visualization
-This project aims to explore the behaviour of Foursquare users in NYC by looking at check-ins from New York City. See it live here: http://woojink.github.io/foursquare-visualization/
+This project explores the behaviour of Foursquare users in NYC by looking at check-ins from New York City. See it live here: http://woojink.github.io/foursquare-visualization/
 
-* To do: Add interactive highlight links in the write-up
+* To do: Include the write up
 
 ## Dataset
 The dataset is courtesy of [Dingqi Yang](https://sites.google.com/site/yangdingqi/home/foursquare-dataset). It includes 227,428 Foursquare check-ins from the NYC area from 12 April 2012 to 16 February 2013.
